@@ -84,17 +84,24 @@
             </div>
 
             <div class="book-testimonials">
-                <div class="content-wrapper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide"></div>
+                            <div class="swiper-slide">
+                                <div class="content-wrapper">
+                                    <div class="icon"></div>
+                                    <div class="text">
+                                        <div class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt venenatis nibh, at aliquam orci posuere vel.</div>
+                                        <div class="author">Tincidunt Venenatis - Orci Posuere</div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="swiper-slide"></div>
                             <div class="swiper-slide"></div>
                         </div>
                         <div class="swiper-button-next"></div>
                         <div class="swiper-button-prev"></div>
                     </div>
-                </div>
+
             </div>
 
             <div class="low-cost">

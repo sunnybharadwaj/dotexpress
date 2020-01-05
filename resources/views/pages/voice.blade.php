@@ -37,6 +37,9 @@
                 </div>
             </div>
             <div class="posts">
+                <div class="text-center">
+                    Here's what you've submitted
+                </div>
                 <div class="flex flex-wrap">
                     <div class="post primary w-full lg:w-1/3">
                         <div class="content">

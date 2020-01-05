@@ -2,7 +2,7 @@
     <div class="container">
         <div class="cta">
             We'd love to hear from you. Write to us!
-            Send Message
+            <div class="text-btn-lg">Send Message</div>
         </div>
         <nav>
             <div class="social">
