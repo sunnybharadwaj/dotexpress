@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('main');
 });
+
+Route::get('/dev/styles', function() {
+    return view('styleguide');
+});
