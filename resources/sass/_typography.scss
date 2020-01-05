@@ -1,0 +1,65 @@
+html, .root {
+  font-size: 18px;
+  line-height: 23px;
+}
+body, .article {
+  font-family: 'Soleil', sans-serif;
+}
+h1, .h1 {
+  font-size: 4.209em;
+  font-weight: bold;
+  line-height: 1.21052632em;
+  letter-spacing: -0.03em;
+}
+h2, .h2 {
+  font-size: 3.157em;
+  line-height: 1.46808511em;
+  letter-spacing: -0.03em;
+}
+h3, .h3 {
+  font-size: 2.369em;
+  line-height: 1.5862069em;
+  letter-spacing: -0.03em;
+}
+h4, .h4 {
+  font-size: 1.61111111em;
+  line-height: 1.27777778em;
+  letter-spacing: -0.03em;
+}
+h5, .h5 {
+  font-size: 1.777em;
+  line-height: 1.27777778em;
+  letter-spacing: -0.03em;
+}
+p.large {
+  font-size: 1.333em;
+  line-height: 1.27777778em;
+  letter-spacing: -0.03em;
+}
+p, ul, ol, pre, table, blockquote {
+  letter-spacing: -0.03em;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+/* Let's make sure all's aligned */
+hr, .hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+a, b, i, strong, em, small, code {
+  line-height: 0;
+}
+sub, sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
