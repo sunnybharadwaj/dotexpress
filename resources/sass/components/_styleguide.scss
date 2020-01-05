@@ -1,0 +1,40 @@
+#styleguide{
+  padding: 80px 20px;
+
+  .block {
+    margin-bottom: 20px;
+  }
+  h2.h5 {
+    color: $primary-color;
+  }
+
+  .colors {
+    .primary .color-block {
+      height: 200px;
+      width: 100%;
+    }
+    .color-block {
+      display: inline-block;
+      margin-right: 20px;
+      margin-bottom: 20px;
+      width: 15%;
+      height: 150px;
+    }
+  }
+
+
+  .title {
+    margin: 70px 0 20px;
+  }
+
+  p.title {
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    opacity: 0.4;
+  }
+
+  .loud {
+    letter-spacing: 0.07em;
+  }
+}

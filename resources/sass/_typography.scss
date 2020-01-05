@@ -1,43 +1,54 @@
 html, .root {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 23px;
 }
 body, .article {
   font-family: 'Soleil', sans-serif;
+
 }
 h1, .h1 {
   font-size: 4.209em;
   font-weight: bold;
   line-height: 1.21052632em;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.04em;
 }
 h2, .h2 {
   font-size: 3.157em;
-  line-height: 1.46808511em;
-  letter-spacing: -0.03em;
+  line-height: 1.36808511em;
+  letter-spacing: -0.04em;
 }
 h3, .h3 {
   font-size: 2.369em;
-  line-height: 1.5862069em;
+  line-height: 1.46em;
+  font-weight: bold;
   letter-spacing: -0.03em;
 }
 h4, .h4 {
-  font-size: 1.61111111em;
-  line-height: 1.27777778em;
+  font-size: 1.777em;
+  line-height: 1.46em;
   letter-spacing: -0.03em;
 }
 h5, .h5 {
-  font-size: 1.777em;
-  line-height: 1.27777778em;
-  letter-spacing: -0.03em;
-}
-p.large {
+  text-transform: uppercase;
+  font-weight: 900;
   font-size: 1.333em;
   line-height: 1.27777778em;
-  letter-spacing: -0.03em;
+  letter-spacing: 0.11em;
+
+  &.small {
+    font-size: 0.75em;
+  }
 }
+
+p.hl {
+  font-size: 1.333em;
+  line-height: 1.6em;
+  letter-spacing: -0.017em;
+}
+
 p, ul, ol, pre, table, blockquote {
-  letter-spacing: -0.03em;
+  letter-spacing: -0.01em;
+  line-height: 1.6;
 }
 ul ul, ol ol, ul ol, ol ul {
   margin-top: 0em;

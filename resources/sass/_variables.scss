@@ -1,0 +1,103 @@
+$primary-color: #D94848;
+$c-primary: $primary-color;
+$c-secondary: #0B304B;
+$c-black: #2C2C2C;
+$c-d-gray: #403b3b;
+$c-l-gray: #dbd9d2;
+$c-ll-gray: #f1f1ee;
+$c-highlight: #17A4FF;
+$c-a1: #4b7bc3;
+$c-a2: #FFD700;
+$c-a3: #EE772D;
+//$c-a4: #EE772D;
+$c-a1-l: #e5efff;
+$c-a2-l: #fff6c7;
+$c-a3-l: #ffddc8;
+
+
+//Default Colors
+.c-primary {
+  color: $c-primary;
+}
+.c-secondary {
+  color: $c-secondary;
+}
+.c-black {
+  color: $c-black;
+}
+.c-d-gray {
+  color: $c-d-gray;
+}
+.c-l-gray {
+  color: $c-l-gray;
+}
+.c-ll-gray {
+  color: $c-ll-gray;
+}
+.c-highlight {
+  color: $c-highlight;
+}
+.c-a1 {
+  color: $c-a1;
+}
+.c-a2 {
+  color: $c-a2;
+}
+.c-a3 {
+  color: $c-a3;
+}
+.c-a1-l {
+  color: $c-a1-l;
+}
+.c-a2-l {
+  color: $c-a2-l;
+}
+.c-a3-l {
+  color: $c-a3-l;
+}
+
+
+//Backgrounds
+.bg-primary {
+  background: $c-primary;
+}
+.bg-secondary {
+  background: $c-secondary;
+}
+.bg-black {
+  background: $c-black;
+}
+.bg-d-gray {
+  background: $c-d-gray;
+}
+.bg-l-gray {
+  background: $c-l-gray;
+}
+.bg-ll-gray {
+  background: $c-ll-gray;
+}
+.bg-highlight {
+  background: $c-highlight;
+}
+.bg-a1 {
+  background: $c-a1;
+}
+.bg-a2 {
+  background: $c-a2;
+}
+.bg-a3 {
+  background: $c-a3;
+}
+.bg-a1-l {
+  background: $c-a1-l;
+}
+.bg-a2-l {
+  background: $c-a2-l;
+}
+.bg-a3-l {
+  background: $c-a3-l;
+}
+
+
+
+$temp: gray;

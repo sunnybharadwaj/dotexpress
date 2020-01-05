@@ -11401,13 +11401,117 @@ video {
   z-index: auto;
 }
 
+.c-primary {
+  color: #D94848;
+}
+
+.c-secondary {
+  color: #0B304B;
+}
+
+.c-black {
+  color: #2C2C2C;
+}
+
+.c-d-gray {
+  color: #403b3b;
+}
+
+.c-l-gray {
+  color: #dbd9d2;
+}
+
+.c-ll-gray {
+  color: #f1f1ee;
+}
+
+.c-highlight {
+  color: #17A4FF;
+}
+
+.c-a1 {
+  color: #4b7bc3;
+}
+
+.c-a2 {
+  color: #FFD700;
+}
+
+.c-a3 {
+  color: #EE772D;
+}
+
+.c-a1-l {
+  color: #e5efff;
+}
+
+.c-a2-l {
+  color: #fff6c7;
+}
+
+.c-a3-l {
+  color: #ffddc8;
+}
+
+.bg-primary {
+  background: #D94848;
+}
+
+.bg-secondary {
+  background: #0B304B;
+}
+
+.bg-black {
+  background: #2C2C2C;
+}
+
+.bg-d-gray {
+  background: #403b3b;
+}
+
+.bg-l-gray {
+  background: #dbd9d2;
+}
+
+.bg-ll-gray {
+  background: #f1f1ee;
+}
+
+.bg-highlight {
+  background: #17A4FF;
+}
+
+.bg-a1 {
+  background: #4b7bc3;
+}
+
+.bg-a2 {
+  background: #FFD700;
+}
+
+.bg-a3 {
+  background: #EE772D;
+}
+
+.bg-a1-l {
+  background: #e5efff;
+}
+
+.bg-a2-l {
+  background: #fff6c7;
+}
+
+.bg-a3-l {
+  background: #ffddc8;
+}
+
 .container {
   margin: 0 auto;
   padding: 0 25px;
 }
 
 html, .root {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 23px;
 }
 
@@ -11419,41 +11523,49 @@ h1, .h1 {
   font-size: 4.209em;
   font-weight: bold;
   line-height: 1.21052632em;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.04em;
 }
 
 h2, .h2 {
   font-size: 3.157em;
-  line-height: 1.46808511em;
-  letter-spacing: -0.03em;
+  line-height: 1.36808511em;
+  letter-spacing: -0.04em;
 }
 
 h3, .h3 {
   font-size: 2.369em;
-  line-height: 1.5862069em;
+  line-height: 1.46em;
+  font-weight: bold;
   letter-spacing: -0.03em;
 }
 
 h4, .h4 {
-  font-size: 1.61111111em;
-  line-height: 1.27777778em;
+  font-size: 1.777em;
+  line-height: 1.46em;
   letter-spacing: -0.03em;
 }
 
 h5, .h5 {
-  font-size: 1.777em;
-  line-height: 1.27777778em;
-  letter-spacing: -0.03em;
-}
-
-p.large {
+  text-transform: uppercase;
+  font-weight: 900;
   font-size: 1.333em;
   line-height: 1.27777778em;
-  letter-spacing: -0.03em;
+  letter-spacing: 0.11em;
+}
+
+h5.small, .h5.small {
+  font-size: 0.75em;
+}
+
+p.hl {
+  font-size: 1.333em;
+  line-height: 1.6em;
+  letter-spacing: -0.017em;
 }
 
 p, ul, ol, pre, table, blockquote {
-  letter-spacing: -0.03em;
+  letter-spacing: -0.01em;
+  line-height: 1.6;
 }
 
 ul ul, ol ol, ul ol, ol ul {
@@ -11484,6 +11596,46 @@ sup {
 
 sub {
   bottom: -0.25em;
+}
+
+#styleguide {
+  padding: 80px 20px;
+}
+
+#styleguide .block {
+  margin-bottom: 20px;
+}
+
+#styleguide h2.h5 {
+  color: #D94848;
+}
+
+#styleguide .colors .primary .color-block {
+  height: 200px;
+  width: 100%;
+}
+
+#styleguide .colors .color-block {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 15%;
+  height: 150px;
+}
+
+#styleguide .title {
+  margin: 70px 0 20px;
+}
+
+#styleguide p.title {
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  opacity: 0.4;
+}
+
+#styleguide .loud {
+  letter-spacing: 0.07em;
 }
 
 @media (min-width: 640px) {
