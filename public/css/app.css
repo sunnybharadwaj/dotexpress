@@ -11510,6 +11510,11 @@ video {
   padding: 0 25px;
 }
 
+a {
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
 html, .root {
   font-size: 16px;
   line-height: 23px;
@@ -11580,10 +11585,6 @@ hr, .hr {
   margin: -1px 0;
 }
 
-a, b, i, strong, em, small, code {
-  line-height: 0;
-}
-
 sub, sup {
   line-height: 0;
   position: relative;
@@ -11598,6 +11599,51 @@ sub {
   bottom: -0.25em;
 }
 
+.std-btn {
+  display: inline-block;
+  padding: 10px 25px;
+  text-transform: uppercase;
+  font-size: 1.333em;
+  font-weight: bold;
+}
+
+.std-btn.primary {
+  background: #D94848;
+  color: #f1f1ee;
+  border: 5px solid #D94848;
+}
+
+.std-btn.secondary {
+  border: 5px solid #D94848;
+  color: #D94848;
+}
+
+.text-btn {
+  color: #17A4FF;
+  font-weight: bold;
+  margin-right: 20px;
+  padding-bottom: 1px;
+  border-bottom: 3px solid #D94848;
+}
+
+.text-btn:hover {
+  color: #D94848;
+}
+
+.text-btn.sm {
+  font-size: 0.75em;
+  border-bottom: none;
+}
+
+.text-btn.lg {
+  font-size: 1.333em;
+  border-bottom: 4px solid #D94848;
+}
+
+.text-btn.loud {
+  text-transform: uppercase;
+}
+
 #styleguide {
   padding: 80px 20px;
 }
@@ -11608,6 +11654,7 @@ sub {
 
 #styleguide h2.h5 {
   color: #D94848;
+  margin-bottom: 20px;
 }
 
 #styleguide .colors .primary .color-block {

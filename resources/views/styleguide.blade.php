@@ -41,16 +41,20 @@
                 <div class="buttons">
                     <div class="block">
                         <h2 class="h5 title">Standard Buttons</h2>
-                        <a href="" class="primary-btn">Pledge Support</a>
-                        <a href="" class="secondary-btn">Buy Book</a>
+                        <div class="btn-group">
+                            <a href="" class="std-btn primary">Pledge Support</a>
+                            <a href="" class="std-btn secondary">Buy Book</a>
+                        </div>
+
                         <h2 class="h5 title">Text Buttons</h2>
-                        <a class="text-btn">Write to us</a>
-                        <a class="text-btn sm">Continue reading</a>
-                        <a class="text-btn lg">Submit work</a>
+                        <a href="" class="text-btn">Write to us</a>
+                        <a href="" class="text-btn sm">Continue reading</a>
+                        <a href="" class="text-btn lg">Submit work</a>
+                        <a href="" class="text-btn loud lg">Submit work</a>
                     </div>
                 </div>
-                <div class="typography max-w-3xl mx-auto mt-24">
-                    <h2 class="h5 text-center">Typography</h2>
+                <div class="typography max-w-3xl mt-24">
+                    <h2 class="h5">Typography</h2>
                     <div class="block">
                         <p class="title">h1</p>
                         <h1 class="h1">You know when grown-ups tell you everything.</h1>
