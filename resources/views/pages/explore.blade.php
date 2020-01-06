@@ -4,16 +4,22 @@
             <div class="container">
                 <div class="flex flex-wrap">
                     <div class="text w-full lg:w-7/12">
-                        <div class="content-wrapper">
+                        <div class="content-wrapper max-w-lg">
                             <div class="title">
-                                Explore
+                                <div class="blob">
+                                    @include('snippets/blob1')
+                                </div>
+                                <h2 class="h1 font-normal">Explore</h2>
                             </div>
-                            <div class="quote">
-                                "I will learn what it takes, to get where I want.”
+                            <div class="quote max-w-sm">
+                                <h3 class="font-normal">I will learn what it takes, to get where I want.</h3>
                             </div>
                             <div class="desc">
-                                A space for children to explore new content from experts, inform their ideas, think
-                                deeper and apply it to problems they want to solve.
+                                <p class="hl">
+                                    A space for children to explore new content from experts, inform their ideas, think
+                                    deeper and apply it to problems they want to solve.
+                                </p>
+
                             </div>
                         </div>
                     </div>

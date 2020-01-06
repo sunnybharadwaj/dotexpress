@@ -4,16 +4,21 @@
             <div class="container">
                 <div class="flex flex-wrap">
                     <div class="text w-full lg:w-7/12">
-                        <div class="content-wrapper">
+                        <div class="content-wrapper max-w-lg">
                             <div class="title">
-                                Voice
+                                <div class="blob">
+                                    @include('snippets/blob2')
+                                </div>
+                                <h2 class="h1 font-normal">Voice</h2>
                             </div>
-                            <div class="quote">
-                                "My voice is important because I am the future.”
+                            <div class="quote max-w-md">
+                                <h3 class="font-normal">My voice is important because I am the future.</h3>
                             </div>
                             <div class="desc">
-                                A space for children to express original ideas through creative writing, art and stories
-                                that reflect their view of the world and provide an impetus for change.
+                                <p class="hl">
+                                    A space for children to express original ideas through creative writing, art and stories
+                                    that reflect their view of the world and provide an impetus for change.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -27,6 +32,7 @@
                 </div>
             </div>
         </div>
+
         <div class="voice">
             <div class="heading">
                 <div class="content-wrapper text-center">

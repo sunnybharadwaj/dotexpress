@@ -3,3 +3,52 @@
 @import 'experience';
 @import 'about';
 @import 'partners';
+
+.section-wrapper {
+  padding: 40px 0;
+}
+
+.section-intro {
+  padding: 40px 0;
+    .title {
+      position: relative;
+      margin-bottom: 20px;
+      h2 {
+        position: relative;
+        z-index: 1000;
+      }
+      .blob {
+        svg {
+          max-height: 130px;
+          max-width: 130px;
+        }
+        position: absolute;
+        left: -50px;
+        z-index: -500;
+        top: -40px;
+      }
+    }
+
+  .quote h3{
+    margin: 15px 0 15px;
+    &:before {
+      content: '"';
+      position: absolute;
+      margin-left: -.5em;
+    }
+    &:after {
+      content: '"';
+    }
+
+  }
+
+  .desc {
+    .hl {
+      opacity: 0.7;
+    }
+  }
+
+  .video {
+    background: $c-l-gray;
+  }
+}

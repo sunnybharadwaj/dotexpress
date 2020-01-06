@@ -4,7 +4,7 @@ html, .root {
 }
 body, .article {
   font-family: 'Soleil', sans-serif;
-
+  color: $c-black;
 }
 h1, .h1 {
   font-size: 4.209em;
@@ -14,12 +14,13 @@ h1, .h1 {
 }
 h2, .h2 {
   font-size: 3.157em;
+  font-weight: 900;
   line-height: 1.36808511em;
   letter-spacing: -0.04em;
 }
 h3, .h3 {
   font-size: 2.369em;
-  line-height: 1.46em;
+  line-height: 1.3em;
   font-weight: bold;
   letter-spacing: -0.03em;
 }
@@ -40,11 +41,12 @@ h5, .h5 {
   }
 }
 
-p.hl {
+.hl {
   font-size: 1.333em;
   line-height: 1.6em;
   letter-spacing: -0.017em;
 }
+
 
 p, ul, ol, pre, table, blockquote {
   letter-spacing: -0.01em;

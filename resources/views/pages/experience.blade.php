@@ -2,17 +2,22 @@
     <div class="section-wrapper">
         <div class="section-intro">
             <div class="container">
-                <div class="flex">
+                <div class="flex flex-wrap">
                     <div class="text w-full lg:w-7/12">
-                        <div class="content-wrapper">
+                        <div class="content-wrapper max-w-lg">
                             <div class="title">
-                                Experience
+                                <div class="blob">
+                                    @include('snippets/blob3')
+                                </div>
+                                <h2 class="h1 font-normal">Experience</h2>
                             </div>
-                            <div class="quote">
-                                "My Ideas take wing only through action."
+                            <div class="quote max-w-md">
+                                <h3 class="font-normal">My Ideas take wing only through action.</h3>
                             </div>
                             <div class="desc">
-                                A space for children to experience knowledge in action by participating in workshops, sharing their journeys and connecting with mentors!
+                                <p class="hl">
+                                    A space for children to experience knowledge in action by participating in workshops, sharing their journeys and connecting with mentors!
+                                </p>
                             </div>
                         </div>
                     </div>

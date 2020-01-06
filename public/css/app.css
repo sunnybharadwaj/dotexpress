@@ -11410,7 +11410,7 @@ video {
 }
 
 .c-black {
-  color: #2C2C2C;
+  color: #1c1c1c;
 }
 
 .c-d-gray {
@@ -11462,7 +11462,7 @@ video {
 }
 
 .bg-black {
-  background: #2C2C2C;
+  background: #1c1c1c;
 }
 
 .bg-d-gray {
@@ -11522,6 +11522,7 @@ html, .root {
 
 body, .article {
   font-family: "Soleil", sans-serif;
+  color: #1c1c1c;
 }
 
 h1, .h1 {
@@ -11533,13 +11534,14 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 3.157em;
+  font-weight: 900;
   line-height: 1.36808511em;
   letter-spacing: -0.04em;
 }
 
 h3, .h3 {
   font-size: 2.369em;
-  line-height: 1.46em;
+  line-height: 1.3em;
   font-weight: bold;
   letter-spacing: -0.03em;
 }
@@ -11562,7 +11564,7 @@ h5.small, .h5.small {
   font-size: 0.75em;
 }
 
-p.hl {
+.hl {
   font-size: 1.333em;
   line-height: 1.6em;
   letter-spacing: -0.017em;
@@ -11658,7 +11660,7 @@ sub {
   font-size: 1.333em;
   font-weight: bold;
   letter-spacing: -0.03em;
-  color: #2C2C2C;
+  color: #1c1c1c;
   display: inline-block;
   position: relative;
   margin-right: 40px;
@@ -11729,6 +11731,58 @@ sub {
 
 #styleguide .loud {
   letter-spacing: 0.07em;
+}
+
+.section-wrapper {
+  padding: 40px 0;
+}
+
+.section-intro {
+  padding: 40px 0;
+}
+
+.section-intro .title {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.section-intro .title h2 {
+  position: relative;
+  z-index: 1000;
+}
+
+.section-intro .title .blob {
+  position: absolute;
+  left: -50px;
+  z-index: -500;
+  top: -40px;
+}
+
+.section-intro .title .blob svg {
+  max-height: 130px;
+  max-width: 130px;
+}
+
+.section-intro .quote h3 {
+  margin: 15px 0 15px;
+}
+
+.section-intro .quote h3:before {
+  content: '"';
+  position: absolute;
+  margin-left: -0.5em;
+}
+
+.section-intro .quote h3:after {
+  content: '"';
+}
+
+.section-intro .desc .hl {
+  opacity: 0.7;
+}
+
+.section-intro .video {
+  background: #dbd9d2;
 }
 
 @media (min-width: 640px) {
