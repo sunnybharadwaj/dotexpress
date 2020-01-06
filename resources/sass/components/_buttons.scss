@@ -9,6 +9,11 @@ display: inline-block;
   font-size: 1.333em;
   font-weight: bold;
 
+  &.sm {
+    font-size: 1em;
+    padding: 8px 15px;
+  }
+
   &.primary {
     background: $c-primary;
     color: $c-ll-gray;
@@ -22,6 +27,7 @@ display: inline-block;
 
 
 .text-btn {
+  display: inline-block;
   color: $c-highlight;
   font-weight: bold;
   margin-right: 20px;

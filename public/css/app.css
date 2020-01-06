@@ -11607,6 +11607,11 @@ sub {
   font-weight: bold;
 }
 
+.std-btn.sm {
+  font-size: 1em;
+  padding: 8px 15px;
+}
+
 .std-btn.primary {
   background: #D94848;
   color: #f1f1ee;
@@ -11619,6 +11624,7 @@ sub {
 }
 
 .text-btn {
+  display: inline-block;
   color: #17A4FF;
   font-weight: bold;
   margin-right: 20px;
@@ -11642,6 +11648,46 @@ sub {
 
 .text-btn.loud {
   text-transform: uppercase;
+}
+
+#main-nav .nav-wrapper {
+  padding: 30px 40px;
+}
+
+#main-nav .nav-wrapper .nav-link {
+  font-size: 1.333em;
+  font-weight: bold;
+  letter-spacing: -0.03em;
+  color: #2C2C2C;
+  display: inline-block;
+  position: relative;
+  margin-right: 40px;
+}
+
+#main-nav .nav-wrapper .nav-link:hover svg path {
+  fill: #D94848;
+}
+
+#main-nav .nav-wrapper .nav-link .text {
+  position: relative;
+  z-index: 1000;
+}
+
+#main-nav .nav-wrapper .nav-link .blob {
+  position: absolute;
+  z-index: 500;
+  left: -17px;
+  top: -11px;
+  bottom: 0;
+}
+
+#main-nav .nav-wrapper .nav-link .blob svg {
+  max-width: 40px;
+  max-height: 46px;
+}
+
+#main-nav .nav-wrapper .nav-link .blob svg path {
+  fill: #D94848;
 }
 
 #styleguide {

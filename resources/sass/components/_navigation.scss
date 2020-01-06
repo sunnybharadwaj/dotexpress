@@ -1,0 +1,40 @@
+#main-nav {
+  .nav-wrapper {
+    padding: 30px 40px;
+    .nav-link {
+      font-size: 1.333em;
+      font-weight: bold;
+      letter-spacing: -0.03em;
+      color: $c-black;
+      display: inline-block;
+      position: relative;
+      margin-right: 40px;
+
+      &:hover {
+        svg path {
+          fill: $c-primary;
+        }
+      }
+
+      .text {
+        position: relative;
+        z-index: 1000;
+      }
+      .blob {
+        position: absolute;
+        z-index: 500;
+        left: -17px;
+        top: -11px;
+        bottom: 0;
+        svg {
+          max-width: 40px;
+          max-height: 46px;
+          path {
+            fill: $c-primary;
+          }
+        }
+      }
+    }
+  }
+
+}
