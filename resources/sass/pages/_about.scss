@@ -1,4 +1,28 @@
 #about {
   background: $c-secondary;
   color: $c-ll-gray;
+  .team-member .img-container {
+    height: 160px;
+    width: 130px;
+    margin-bottom: 20px;
+    background: $c-d-gray
+  }
+  .team {
+
+    .text-btn {
+      margin: 10px 10px 0 0;
+    }
+
+    p.small {
+      max-height: 130px;
+      overflow: hidden;
+    }
+
+    .content-wrapper {
+      padding-right: 25px;
+      .h4 {
+        margin-bottom: 6px;
+      }
+    }
+  }
 }

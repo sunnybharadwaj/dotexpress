@@ -35,6 +35,8 @@ h5, .h5 {
   font-size: 1.333em;
   line-height: 1.27777778em;
   letter-spacing: 0.11em;
+  margin-bottom: 0.75em;
+  color: $c-primary;
 
   &.small {
     font-size: 0.75em;
@@ -49,6 +51,7 @@ h5, .h5 {
 
 .small {
   font-size: 0.75em;
+  letter-spacing: 0.01em;
   line-height: 1.6;
 }
 

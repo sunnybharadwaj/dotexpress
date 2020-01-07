@@ -8,7 +8,7 @@ display: inline-block;
   text-transform: uppercase;
   font-size: 1.333em;
   font-weight: bold;
-
+  margin: 20px 0;
   &.sm {
     font-size: 1em;
     padding: 8px 15px;
@@ -27,6 +27,7 @@ display: inline-block;
 
 
 .text-btn {
+  margin: 1em 0;
   display: inline-block;
   color: $c-highlight;
   font-weight: bold;

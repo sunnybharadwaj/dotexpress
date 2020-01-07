@@ -1,6 +1,6 @@
 <header>
-    <section>
-        <div class="section-wrapper">
+    <section id="header">
+        <div class="section-wrapper ">
             <div class="header-bg">
                 <div class="content-wrapper py-24">
                     <div class="header-text">
@@ -17,7 +17,7 @@
                     </div>
                 </div>
 
-                <div class="announcements-notification">
+                <div class="announcements-notification hidden">
                     <div class="content-wrapper">
                         <div class="h4">Announcement text</div>
                         <div class="links">

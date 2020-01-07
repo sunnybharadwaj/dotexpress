@@ -1,6 +1,6 @@
 <footer>
     <div class="container">
-        <div class="cta text-center">
+        <div class="cta text-center hidden">
             <h3>We'd love to hear from you.</h3>
 
             <div class="text-btn lg">Write to us</div>
@@ -9,7 +9,7 @@
             <div class="social">
 
             </div>
-            <div class="footer-nav flex justify-center">
+            <div class="footer-nav flex justify-center hidden">
                 <a href="" class="text-btn no-border footer-link" >Book</a>
                 <a href="" class="text-btn no-border footer-link" >Announcements</a>
                 <a href="" class="text-btn no-border footer-link" >About</a>

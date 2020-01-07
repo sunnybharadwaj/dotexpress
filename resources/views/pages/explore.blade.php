@@ -38,13 +38,13 @@
                 <div class="heading">
                     <div class="content-wrapper text-center">
                         <h3 class="h5 loud-title">Book</h3>
-                        <div class="title h3">
+                        <div class="title h3 mb-4">
                             The Dot that Went For a Walk
                         </div>
                     </div>
                 </div>
 
-                <div class="flex flex-wrap">
+                <div class="flex flex-wrap py-4">
                     <div class="img-w-bg w-full lg:w-5/12">
                         <div class="content-wrapper">
                             <div class="blob"></div>
@@ -55,18 +55,18 @@
                     </div>
                     <div class="text w-full lg:w-7/12">
                         <div class="content-wrapper">
-                            <div class="text-limiter">
-                                <h3 class="h4">A children's book with 51 illustrated stories that celebrate
+                            <div class="pl-12">
+                                <h3 class="hl font-bold mb-2">A children's book with 51 illustrated stories that celebrate
                                     extraordinary women from
                                     India including artists, scientists, healers, entrepreneurs, politicians, rocket
                                     women
                                     of India, women in sports and a commando trainer.</h3>
-                                <p>
+                                <p class="p mb-2">
                                     This book is about changing the
                                     narrative of storytelling, from fairy tales that have gender stereotypes with female
                                     characters portrayed as damsels in distress to stories of real women role models.
                                 </p>
-                                <p class="hl">
+                                <p class="mb-2">
                                     The
                                     stories are complemented with beautiful artworks by 51 leading and aspiring women
                                     artists who have each represented the role models in their styles and in diverse
@@ -177,7 +177,7 @@
 
             </div>
 
-            <div class="low-cost">
+            <div class="low-cost py-8">
                 <div class="container">
                     <div class="content-wrapper">
                         <div class="flex flex-wrap">
@@ -192,7 +192,7 @@
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
                                     <div class="text-limiter">
-                                        <div class="h3">Low-cost Telugu translation of the book is now in print.</div>
+                                        <div class="h3 mb-4">Low-cost Telugu translation of the book is now in print.</div>
                                         <p>
                                             Our larger vision is that every girl in every government school should have
                                             access to this book. Hence, we are translating the book into regional
@@ -202,7 +202,7 @@
                                             reach remote rural areas.
 
                                         </p>
-                                        <p>
+                                        <p class="font-bold mt-4">
                                             Donate today to help us print and distribute these low-cost regional
                                             language editions
                                         </p>

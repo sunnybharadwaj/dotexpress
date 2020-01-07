@@ -17,6 +17,10 @@
     }
   }
 
+  .cta {
+    background: $c-a2-l;
+    z-index: -1000;
+  }
   .ticket {
     position: relative;
     min-height: 350px;
@@ -27,13 +31,14 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      z-index: -500;
+      z-index: 100;
     }
 
     .content-wrapper  {
       position: absolute;
       top: 50%;
       left: 50%;
+      z-index: 1000;
       transform: translate(-50%, -50%);
     }
   }

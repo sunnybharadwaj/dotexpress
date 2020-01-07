@@ -33,17 +33,18 @@
             </div>
         </div>
 
-        <div class="voice-posts">
+        <div class="voice-posts mt-8">
             <div class="container">
                 <div class="heading">
                     <div class="content-wrapper text-center">
-                        <h4 class="hl">Here's what you've submitted</h4>
-                        <h3 class="h4">
+
+                        <h3 class="h4 my-4">
                             Topic: Who’s your woman role model?
                         </h3>
+                        <h4 class="hl mb-4 opacity-50">Here's what you've submitted</h4>
                     </div>
                 </div>
-                <div class="posts">
+                <div class="posts py-4">
                     <div class="text-center hl">
 
                     </div>
@@ -133,23 +134,25 @@
             </div>
 
         </div>
-        <div class="cta">
+        <div class="cta py-16">
             <div class="container">
                 <div class="flex flex-wrap">
-                    <div class="text w-full lg:w-4/12">
-                        <div class="content-wrapper">
-                            <h3>Here’s your Golden Ticket!</h3>
-                            <p class="hl">
-                                Raise your voice,
-                                Speak your true language!
-                            </p>
-                            <p>
-                                Submit an original essay, poem, artwork as a story based on the topic to have your work
-                                featured here.
-                            </p>
+                    <div class="text w-full lg:w-5/12">
+                        <div class="max-w-md">
+                            <div class="content-wrapper py-12 lg:px-12">
+                                <h3 class="mb-4">Here’s your <br/>Golden Ticket!</h3>
+                                <p class="">
+                                    <span class="font-bold">Raise your voice, Speak your true language!</span> Submit an original essay, poem, artwork as a story based on the topic to have your work
+                                    featured here.
+                                </p>
+                                <p>
+
+                                </p>
+                            </div>
                         </div>
+
                     </div>
-                    <div class="ticket w-full lg:w-8/12">
+                    <div class="ticket w-full lg:w-7/12">
                         <div class="image-container">
                             <img class="mx-auto" src="/static/voice/ticket.png" alt="">
                         </div>
@@ -165,7 +168,7 @@
                                     </div>
                                 </div>
 
-                                <div class="cta">
+                                <div class="cta-btn">
                                     <div class="text-btn loud">
                                         Submit Work
                                     </div>
