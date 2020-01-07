@@ -1,28 +1,67 @@
-<section>
+<section id="announcements">
     <div class="section-wrapper">
         <div class="container">
+            <div class="text-center">
+                <h5>Announcements</h5>
+            </div>
             <div class="swiper-slide">
                 <div class="flex flex-wrap">
-                    <div class="text w-full lg:w-5/12">
-                        <div class="h3">Low-cost Telugu translation of the book is now in print.</div>
-                    </div>
-                    <div class="img-w-bg w-full lg:w-7/12">
-                        <div class="content-wrapper">
-                            <div class="content-wrapper">
-                                <div class="blob"></div>
-                                <div class="img-wrapper">
-                                    <img src="" alt="">
-                                </div>
-                            </div>
+                    <div class="text w-full">
+                        <div class="max-w-3xl mx-auto text-center">
+                            <div class="h4 font-bold">Low-cost Telugu translation of the book is now in print!</div>
+                            <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed suscipit urna, id tristique massa. Urna Aenean sed suscipit urna Aenean sed suscipit urna.</p>
+
+
 
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="ig-block">
+                <div class="text-center">
+
+                    <h3>@thedotexpress</h3>
+                </div>
+                <div class="max-w-5xl mx-auto">
+                    <div class="flex flex-wrap">
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                        <div class="ig-post w-1/3 lg:w-1/5">
+                            <div class="ig-post-wrapper"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <div class="std-btn secondary mx-auto sm">View more on Instagram</div>
+            </div>
         </div>
-        Announcements
-
-
-
     </div>
 </section>
