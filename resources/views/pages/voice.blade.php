@@ -34,101 +34,104 @@
         </div>
 
         <div class="voice-posts">
-            <div class="heading">
-                <div class="content-wrapper text-center">
-                    <h4 class="hl">Here's what you've submitted</h4>
-                    <h3 class="h4">
-                        Topic: Who’s your woman role model?
-                    </h3>
+            <div class="container">
+                <div class="heading">
+                    <div class="content-wrapper text-center">
+                        <h4 class="hl">Here's what you've submitted</h4>
+                        <h3 class="h4">
+                            Topic: Who’s your woman role model?
+                        </h3>
+                    </div>
+                </div>
+                <div class="posts">
+                    <div class="text-center hl">
+
+                    </div>
+                    <div class="flex flex-wrap">
+                        <div class="post primary w-full lg:w-1/3">
+                            <div class="content">
+                                <div class="image">
+                                    <div class="img-wrapper"></div>
+                                </div>
+                                <div class="text">
+                                    <div class="post-header">
+                                        <h5 class="mr-2 small inline-block">Essay</h5>
+                                        <div class="small font-bold inline-block">Adhya Kartik</div>
+
+                                    </div>
+                                    <div class="post-title">
+                                        <p class="font-bold">
+                                            Rising Like a Phoenix
+                                        </p>
+
+                                    </div>
+                                    <div class="post-desc small">
+                                        Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t heard of
+                                        her myself until very recently. Arunima Sinha is a former national volleyball
+                                        player…mountaineer and the first lady to climb Mount Everest, despite her
+                                        disability.
+                                    </div>
+                                    <div class="post-links">
+                                        <a href="" class="text-btn sm">
+                                            Continue reading
+                                        </a>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="post secondary w-full lg:w-1/3">
+                            <div class="content">
+                                <div class="image">
+                                    <div class="img-wrapper"></div>
+                                </div>
+                                <div class="text">
+                                    <div class="post-header">
+                                        Essay
+                                        Adhya Kartik
+                                    </div>
+                                    <div class="post-title">
+
+                                    </div>
+
+                                    <div class="post-links">
+                                        View Artwork
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="post secondary  w-full lg:w-1/3">
+                            <div class="content">
+                                <div class="image">
+                                    <div class="img-wrapper"></div>
+                                </div>
+                                <div class="text">
+                                    <div class="post-header">
+                                        Essay
+                                        Adhya Kartik
+                                    </div>
+                                    <div class="post-title">
+
+                                    </div>
+
+                                    <div class="post-links">
+                                        Listen on Spotify
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="text-center">
+                        <div class="text-btn lg loud">
+                            View More
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="posts">
-                <div class="text-center hl">
 
-                </div>
-                <div class="flex flex-wrap">
-                    <div class="post primary w-full lg:w-1/3">
-                        <div class="content">
-                            <div class="image">
-                                <div class="img-wrapper"></div>
-                            </div>
-                            <div class="text">
-                                <div class="post-header">
-                                    <h5 class="mr-2 small inline-block">Essay</h5>
-                                    <div class="small font-bold inline-block">Adhya Kartik</div>
-
-                                </div>
-                                <div class="post-title">
-                                    <p class="font-bold">
-                                        Rising Like a Phoenix
-                                    </p>
-
-                                </div>
-                                <div class="post-desc small">
-                                    Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t heard of
-                                    her myself until very recently. Arunima Sinha is a former national volleyball
-                                    player…mountaineer and the first lady to climb Mount Everest, despite her
-                                    disability.
-                                </div>
-                                <div class="post-links">
-                                    <a href="" class="text-btn sm">
-                                        Continue reading
-                                    </a>
-
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="post secondary w-full lg:w-1/3">
-                        <div class="content">
-                            <div class="image">
-                                <div class="img-wrapper"></div>
-                            </div>
-                            <div class="text">
-                                <div class="post-header">
-                                    Essay
-                                    Adhya Kartik
-                                </div>
-                                <div class="post-title">
-
-                                </div>
-
-                                <div class="post-links">
-                                    View Artwork
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="post secondary  w-full lg:w-1/3">
-                        <div class="content">
-                            <div class="image">
-                                <div class="img-wrapper"></div>
-                            </div>
-                            <div class="text">
-                                <div class="post-header">
-                                    Essay
-                                    Adhya Kartik
-                                </div>
-                                <div class="post-title">
-
-                                </div>
-
-                                <div class="post-links">
-                                    Listen on Spotify
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="text-center">
-                    <div class="text-btn lg loud">
-                        View More
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="cta">
             <div class="container">
