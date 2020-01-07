@@ -37,9 +37,9 @@
             <div class="intro container">
                 <div class="heading">
                     <div class="content-wrapper text-center">
-                        <div class="loud-title">Book</div>
-                        <div class="title">
-                            The Dot that Went For a Walk...
+                        <h3 class="h5 loud-title">Book</h3>
+                        <div class="title h3">
+                            The Dot that Went For a Walk
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <div class="content-wrapper">
                             <div class="blob"></div>
                             <div class="img-wrapper">
-                                <img src="" alt="">
+                                <img src="/static/" alt="">
                             </div>
                         </div>
                     </div>
