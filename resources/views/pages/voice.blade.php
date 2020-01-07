@@ -1,4 +1,4 @@
-<section>
+<section id="voice">
     <div class="section-wrapper">
         <div class="section-intro">
             <div class="container">
@@ -33,18 +33,18 @@
             </div>
         </div>
 
-        <div class="voice">
+        <div class="voice-posts">
             <div class="heading">
                 <div class="content-wrapper text-center">
-                    <div class="loud-title">Current Topic</div>
-                    <div class="title">
-                        Who’s your woman role model?
-                    </div>
+                    <h4 class="hl">Here's what you've submitted</h4>
+                    <h3 class="h4">
+                        Topic: Who’s your woman role model?
+                    </h3>
                 </div>
             </div>
             <div class="posts">
-                <div class="text-center">
-                    Here's what you've submitted
+                <div class="text-center hl">
+
                 </div>
                 <div class="flex flex-wrap">
                     <div class="post primary w-full lg:w-1/3">
@@ -54,20 +54,27 @@
                             </div>
                             <div class="text">
                                 <div class="post-header">
-                                    Essay
-                                    Adhya Kartik
+                                    <h5 class="mr-2 small inline-block">Essay</h5>
+                                    <div class="small font-bold inline-block">Adhya Kartik</div>
+
                                 </div>
                                 <div class="post-title">
-                                    Rising Like a Phoenix
+                                    <p class="font-bold">
+                                        Rising Like a Phoenix
+                                    </p>
+
                                 </div>
-                                <div class="post-desc">
+                                <div class="post-desc small">
                                     Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t heard of
                                     her myself until very recently. Arunima Sinha is a former national volleyball
                                     player…mountaineer and the first lady to climb Mount Everest, despite her
                                     disability.
                                 </div>
                                 <div class="post-links">
-                                    Continue reading
+                                    <a href="" class="text-btn sm">
+                                        Continue reading
+                                    </a>
+
                                 </div>
                             </div>
                         </div>
@@ -116,8 +123,10 @@
                     </div>
                 </div>
 
-                <div class="text-btn lg loud">
-                    View More
+                <div class="text-center">
+                    <div class="text-btn lg loud">
+                        View More
+                    </div>
                 </div>
             </div>
         </div>
@@ -126,30 +135,40 @@
                 <div class="flex flex-wrap">
                     <div class="text w-full lg:w-4/12">
                         <div class="content-wrapper">
-                            Here’s your Golden Ticket!
-                            Raise your voice,
-                            Speak your true language!
-                            Submit an original essay, poem, artwork as a story based on the topic to have your work
-                            featured here.
+                            <h3>Here’s your Golden Ticket!</h3>
+                            <p class="hl">
+                                Raise your voice,
+                                Speak your true language!
+                            </p>
+                            <p>
+                                Submit an original essay, poem, artwork as a story based on the topic to have your work
+                                featured here.
+                            </p>
                         </div>
                     </div>
                     <div class="ticket w-full lg:w-8/12">
+                        <div class="image-container">
+                            <img class="mx-auto" src="/static/voice/ticket.png" alt="">
+                        </div>
                         <div class="content-wrapper">
-                            <div class="image-container">
-                                <img src="" alt="">
-                            </div>
-                            <div class="loud-title sm">
-                                Next Topic
-                            </div>
-                            <div class="topic-statement">
-                                What changes does India need right now?
-                            </div>
 
-                            <div class="cta">
-                                <div class="text-btn sm loud">
-                                    Submit Work
+                            <div class="max-w-sm mx-auto text-center">
+                                <h5 class="small">
+                                    Next Topic
+                                </h5>
+                                <div class="topic-statement">
+                                    <div class="h4 font-bold">
+                                        What changes does India need right now?
+                                    </div>
+                                </div>
+
+                                <div class="cta">
+                                    <div class="text-btn loud">
+                                        Submit Work
+                                    </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>

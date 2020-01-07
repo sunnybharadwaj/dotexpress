@@ -1,0 +1,43 @@
+#voice {
+  .voice-posts {
+    background: $c-a2;
+    padding: 30px;
+    .post {
+      .content {
+        margin: 0 20px;
+        background: white;
+        height: 407px;
+        .image {
+
+        }
+        .text {
+          padding: 15px;
+        }
+      }
+    }
+  }
+
+  .ticket {
+    position: relative;
+    min-height: 350px;
+    .image-container {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: -500;
+    }
+
+    .content-wrapper  {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+
+
+
+}

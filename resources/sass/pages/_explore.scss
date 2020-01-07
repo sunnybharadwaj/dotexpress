@@ -1,0 +1,30 @@
+#explore {
+  .book {
+    img {
+      margin: 0 auto;
+    }
+
+    .book-testimonials {
+      //.quote-content {
+      //  max-width: 700px;
+      //  margin: 0 auto;
+      //  text-align: center;
+      //}
+    }
+    .flex-wrapper {
+      text-align: center;
+    }
+     .book-link {
+      display: inline-block;
+      margin: 0;
+
+    }
+
+  }
+  .preview {
+    padding: 20px 30px;
+    .book-menu {
+      padding: 20px;
+    }
+  }
+}
