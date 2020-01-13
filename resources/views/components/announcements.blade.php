@@ -28,34 +28,34 @@
                 </div>
                 <div class="max-w-5xl mx-auto">
                     <div class="flex flex-wrap">
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/3 lg:w-1/5">
+                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
                             <div class="ig-post-wrapper"></div>
                         </div>
                     </div>

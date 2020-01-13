@@ -4,6 +4,9 @@
     .std-btn {
       margin:0;
     }
+
+
+
     .nav-link {
       font-size: 1.333em;
       font-weight: bold;
@@ -12,6 +15,43 @@
       display: inline-block;
       position: relative;
       margin-right: 40px;
+      transition: all 0.2s ease-in-out;
+
+      &#explore-link {
+        .blob svg path {
+          fill: $c-a1-l;
+        }
+
+        &:hover {
+          svg path {
+            fill: $c-a1;
+          }
+        }
+      }
+
+      &#voice-link {
+        .blob svg path {
+          fill: $c-a2-l;
+        }
+
+        &:hover {
+          svg path {
+            fill: $c-a2;
+          }
+        }
+      }
+
+      &#experience-link {
+        .blob svg path {
+          fill: $c-a3-l;
+        }
+
+        &:hover {
+          svg path {
+            fill: $c-a3;
+          }
+        }
+      }
 
       &:hover {
         svg path {
@@ -33,7 +73,7 @@
           max-width: 40px;
           max-height: 46px;
           path {
-            fill: $c-primary;
+            //fill: $c-primary;
           }
         }
       }

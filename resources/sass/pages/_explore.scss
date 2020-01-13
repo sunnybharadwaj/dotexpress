@@ -1,9 +1,24 @@
 #explore {
+
+  .blob svg path {
+    fill: $c-a1;
+  }
+
   .book {
-    img {
-      margin: 0 auto;
+    img.book-img {
+      position: relative;
+      left: -30px;
     }
 
+    .text-btn {
+      color: $c-black;
+      font-weight: normal;
+
+      &:hover {
+        cursor: pointer;
+        font-weight: bold;
+      }
+    }
     .book-testimonials {
       //.quote-content {
       //  max-width: 700px;

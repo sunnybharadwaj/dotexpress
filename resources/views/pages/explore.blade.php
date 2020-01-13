@@ -33,12 +33,12 @@
                 </div>
             </div>
         </div>
-        <div class="book">
+        <div class="book pt-10 lg:pt-16">
             <div class="intro container">
                 <div class="heading">
                     <div class="content-wrapper text-center">
                         <h3 class="h5 loud-title">Book</h3>
-                        <div class="title h3 mb-4">
+                        <div class="title h3 mb-8">
                             The Dot that Went For a Walk
                         </div>
                     </div>
@@ -48,31 +48,37 @@
                     <div class="img-w-bg w-full lg:w-5/12">
                         <div class="content-wrapper">
                             <div class="blob"></div>
-                            <div class="img-wrapper">
-                                <img src="/static/explore/book_image.png" alt="">
+                            <div class="img-wrapper ">
+                                <img class="book-img" src="/static/explore/book_image.png" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="text w-full lg:w-7/12">
                         <div class="content-wrapper">
-                            <div class="pl-12">
-                                <h3 class="hl font-bold mb-2">A children's book with 51 illustrated stories that celebrate
-                                    extraordinary women from
-                                    India including artists, scientists, healers, entrepreneurs, politicians, rocket
-                                    women
-                                    of India, women in sports and a commando trainer.</h3>
-                                <p class="p mb-2">
-                                    This book is about changing the
-                                    narrative of storytelling, from fairy tales that have gender stereotypes with female
-                                    characters portrayed as damsels in distress to stories of real women role models.
-                                </p>
-                                <p class="mb-2">
-                                    The
-                                    stories are complemented with beautiful artworks by 51 leading and aspiring women
-                                    artists who have each represented the role models in their styles and in diverse
-                                    mediums
-                                    like fabric, paper, oils etc.
-                                </p>
+                            <div class="lg:pl-16">
+                                <div class="max-w-lg">
+                                    <h3 class="hl font-bold mb-4">A children's book with 51 illustrated stories that celebrate
+                                        extraordinary women from
+                                        India including artists, scientists, healers, entrepreneurs, politicians, rocket
+                                        women
+                                        of India, women in sports and a commando trainer.</h3>
+                                </div>
+
+                                <div class="max-w-xl">
+                                    <p class="p mb-4">
+                                        This book is about changing the
+                                        narrative of storytelling, from fairy tales that have gender stereotypes with female
+                                        characters portrayed as damsels in distress to stories of real women role models.
+                                    </p>
+                                    <p class="mb-2">
+                                        The
+                                        stories are complemented with beautiful artworks by 51 leading and aspiring women
+                                        artists who have each represented the role models in their styles and in diverse
+                                        mediums
+                                        like fabric, paper, oils etc.
+                                    </p>
+                                </div>
+
 
                                 <div class="std-btn secondary">
                                     Buy Now
@@ -86,11 +92,11 @@
             </div>
 
             <div class="preview">
-                <div class="content-wrapper">
+                <div class="content-wrapper hidden md:block">
                     <div class="loud-title h5 hl">Preview</div>
 
-                    <div class="book-slide">
-                        <img src="/static/explore/preview_1_janaka_ammal.jpg" alt="">
+                    <div class="book-slide ">
+                        <img class="mx-auto" src="/static/explore/preview_1_janaka_ammal.jpg" alt="">
                     </div>
                     <div class="book-menu">
                         <div class="flex flex-wrap max-w-2xl mx-auto">
@@ -177,7 +183,7 @@
 
             </div>
 
-            <div class="low-cost py-8">
+            <div class="low-cost py-8 lg:py-16">
                 <div class="container">
                     <div class="content-wrapper">
                         <div class="flex flex-wrap">
@@ -191,7 +197,7 @@
                             </div>
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
-                                    <div class="text-limiter">
+                                    <div class="max-w-2xl lg:pl-16">
                                         <div class="h3 mb-4">Low-cost Telugu translation of the book is now in print.</div>
                                         <p>
                                             Our larger vision is that every girl in every government school should have
@@ -202,8 +208,8 @@
                                             reach remote rural areas.
 
                                         </p>
-                                        <p class="font-bold mt-4">
-                                            Donate today to help us print and distribute these low-cost regional
+                                        <p class="font-bold hl mt-4">
+                                            Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
                                             language editions
                                         </p>
                                         <div class="std-btn secondary">

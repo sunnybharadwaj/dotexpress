@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="441.669" height="379.875" viewBox="0 0 441.669 379.875">
+  <defs>
+    <filter id="Screen_Shot_2019-12-19_at_11.01.10_AM" x="0" y="49.646" width="441.669" height="270.342" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_344" data-name="Group 344" transform="translate(0.499 -3194.292)">
+    <g id="Group_338" data-name="Group 338" transform="translate(-63 377)">
+      <g id="blob-shape_6_" data-name="blob-shape (6)" transform="matrix(0.087, 0.996, -0.996, 0.087, 465.197, 2817.292)">
+        <path id="Path_14" data-name="Path 14" d="M313.632,70.782c25.744,35.723,35.136,76.729,33.962,113.207C346.42,220.55,334.68,252.5,319.251,285.455c-15.43,32.872-34.465,66.666-64.989,84.528s-72.452,19.706-102.389,2.6c-29.937-17.023-47.882-52.914-76.98-89.224S5.459,210.32.511,169.817C-4.352,129.23,26.088,84.87,65.92,51.579,105.668,18.372,154.724-3.683,200.258.51,245.792,4.619,287.888,35.059,313.632,70.782Z" transform="translate(0)" fill="#6a9ce6"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 62.5, 2817.29)" filter="url(#Screen_Shot_2019-12-19_at_11.01.10_AM)">
+        <rect id="Screen_Shot_2019-12-19_at_11.01.10_AM-2" data-name="Screen Shot 2019-12-19 at 11.01.10 AM" width="423.669" height="252.342" transform="translate(9 55.65)" fill="#e0e0e0"/>
+      </g>
+    </g>
+  </g>
+</svg>
