@@ -79,10 +79,9 @@
                                     </p>
                                 </div>
 
-
-                                <div class="std-btn secondary">
-                                    Buy Now
-                                </div>
+                                <a href="https://www.amazon.in/that-went-walk-Short-Stories/dp/8193926005" target="_blank" class="std-btn primary">
+                                    Buy Book
+                                </a>
                             </div>
 
 
@@ -198,7 +197,7 @@
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
                                     <div class="max-w-2xl lg:pl-16">
-                                        <div class="h3 mb-4">Low-cost Telugu translation of the book is now in print.</div>
+                                        <div class="h3 mb-4 pt-4">Low-cost Telugu translation of the book is now in print.</div>
                                         <p>
                                             Our larger vision is that every girl in every government school should have
                                             access to this book. Hence, we are translating the book into regional
@@ -206,18 +205,21 @@
                                             27, 2019 and will be releasing the Hindi edition soon. We are working with
                                             foundations like Teach for Change and Nanhi Kali to distribute our books and
                                             reach remote rural areas.
-
                                         </p>
-                                        <p class="font-bold hl mt-4">
-                                            Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
-                                            language editions
-                                        </p>
-                                        <div class="std-btn secondary">
-                                            Pledge Support
-                                        </div>
                                     </div>
-
                                 </div>
+                            </div>
+                        </div>
+
+                        <div class="text-center pt-10 lg:pt-16">
+                            <div class="max-w-3xl mx-auto">
+                                <p class="font-bold h4 mt-4">
+                                    Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
+                                    language editions
+                                </p>
+                                <a href="/forms/pledge" class="std-btn primary">
+                                    Pledge Support
+                                </a>
                             </div>
                         </div>
                     </div>

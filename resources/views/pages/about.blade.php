@@ -4,8 +4,6 @@
             <div class="pt-12 pb-2">
                 <div class="py-8 mb-12">
                     <div class="flex flex-wrap">
-
-
                         <div class="side-l w-full lg:w-1/2">
                             <div class="h5 mb-4">About Us</div>
                             <div class="h4">The Dot Express is the beloved brain child of founders - Reema, Sarada and
@@ -21,18 +19,18 @@
                             </div>
                         </div>
                     </div>
-                    <div class="team pt-24">
+                    <div id="team-list" class="team pt-24">
                         <div class="team">
                             <div class="flex flex-wrap">
-                                <div class="w-full lg:w-1/3">
-                                    <div class="team-member">
+                                <div class="team-member w-full lg:w-1/3">
+                                    <div class="">
                                         <div class="img-container">
                                             <img src="" alt="">
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="h4 font-bold">Reema Gupta</div>
 
-                                            <p class="small">Reema is a dreamer. full of ideas to change the world. Her
+                                            <p class="">Reema is a dreamer. full of ideas to change the world. Her
                                                 favorite job is daydreaming and rescuing someone, anyone, be it plants,
                                                 animals or dead butterflies. She loves to do a lot of things but is
                                                 bound by
@@ -52,16 +50,15 @@
                                     </div>
                                 </div>
 
-                                <div class="w-full lg:w-1/3">
-                                    <div class="team-member">
+                                <div class="team-member w-full lg:w-1/3">
+                                    <div class="">
                                         <div class="img-container">
                                             <img src="" alt="">
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="h4 font-bold">Sarada Akkineni</div>
 
-
-                                            <p class="small">Sarada is a voice of reason who loves to problem solve
+                                            <p class="">Sarada is a voice of reason who loves to problem solve
                                                 while doing
                                                 her 10 minute plank. Otherwise, she is a single tasker with a never
                                                 ending
@@ -78,15 +75,15 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="w-full lg:w-1/3">
-                                    <div class="team-member">
+                                <div class="team-member w-full lg:w-1/3">
+                                    <div class="">
                                         <div class="img-container">
                                             <img src="" alt="">
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="h4 font-bold">Lakshmi Nambiar</div>
 
-                                            <p class="small">Lakshmi keeps the above two grounded in reality,
+                                            <p class="">Lakshmi keeps the above two grounded in reality,
                                                 repeatedly. An
                                                 investment banker by profession, you always want to be on the same side
                                                 of the

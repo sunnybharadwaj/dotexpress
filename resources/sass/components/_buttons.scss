@@ -18,10 +18,18 @@ display: inline-block;
     background: $c-primary;
     color: $c-ll-gray;
     border: 5px solid $c-primary;
+
   }
   &.secondary {
     border: 5px solid $c-primary;
     color: $c-primary;
+  }
+
+  &:hover {
+    cursor: pointer;
+    border: 5px solid $c-primary;
+    color: $c-primary;
+    background: white;
   }
 }
 
@@ -38,6 +46,7 @@ display: inline-block;
     border-bottom: 3px solid transparent;
 
     &:hover {
+      cursor: pointer;
       border-bottom: 3px solid $c-primary;
     }
   }

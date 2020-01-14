@@ -183,10 +183,11 @@
                                     </div>
                                 </div>
 
-                                <div class="cta-btn">
-                                    <div class="text-btn loud">
+                                <a class="cta-btn">
+
+                                    <a href="/forms/submission" class="text-btn loud">
                                         Submit Work
-                                    </div>
+                                    </a>
                                 </div>
                             </div>
 

@@ -28,12 +28,12 @@
                 </div>
             </div>
             <div class="right-block mb-hidden">
-                <div class="std-btn primary sm">
+                <a href="/forms/pledge" class="std-btn primary sm">
                     Pledge Support
-                </div>
-                <div class="std-btn primary sm">
+                </a>
+                <a href="https://www.amazon.in/that-went-walk-Short-Stories/dp/8193926005" target="_blank" class="std-btn primary sm">
                     Buy Book
-                </div>
+                </a>
             </div>
         </div>
     </div>

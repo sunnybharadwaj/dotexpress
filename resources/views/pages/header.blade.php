@@ -41,7 +41,6 @@
 
         <div class="site-description">
             <div class="container">
-
                 <div class="max-w-4xl mx-auto text-center py-12 lg:py-20">
                     <div class="max-w-lg mx-auto pt-4 pb-2">
                         @include ('snippets/logo')
