@@ -136,8 +136,8 @@
                                 </div>
                             </div>
 
-                            <div class="text-center">
-                                <div class="text-btn lg loud">
+                            <div class="text-center hidden">
+                                <div class="text-btn lg loud ">
                                     View More
                                 </div>
                             </div>
@@ -169,7 +169,7 @@
                     </div>
                     <div class="ticket w-full lg:w-7/12">
                         <div class="image-container">
-                            <img class="mx-auto mb-hidden" src="/static/voice/ticket.png" alt="">
+                            <img class="mx-auto " src="/static/voice/ticket.png" alt="">
                         </div>
                         <div class="content-wrapper relative lg:absolute">
 

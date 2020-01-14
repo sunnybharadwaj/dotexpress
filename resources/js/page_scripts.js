@@ -1,3 +1,6 @@
+require('semantic-ui-form/form.min');
+require('semantic-ui-dropdown/dropdown.min');
+
 $(document).ready(function() {
 
     //Announcements Notifications
@@ -12,10 +15,7 @@ $(document).ready(function() {
         notification.addClass('hidden');
     });
 
-
     $('.modal-wrapper #close-btn').click(function() {
        $('.modal-wrapper').hide();
     });
-
-
 });

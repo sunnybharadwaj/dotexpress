@@ -38,13 +38,16 @@
 
 /* Medium (md) */
 @media (min-width: 768px) {
-
+  .mb-hidden {
+    display: block !important;
+  }
 }
 
 /* Large (lg) */
 @media (min-width: 1024px) {
+
   .lg-hidden {
-    display: block;
+    display: none;
   }
 }
 

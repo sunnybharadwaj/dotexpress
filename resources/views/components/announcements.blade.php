@@ -23,45 +23,26 @@
 
             <div class="ig-block py-12">
                 <div class="text-center">
-
                     <h3 class="mb-4">@thedotexpress</h3>
                 </div>
-                <div class="max-w-5xl mx-auto">
+                <div class="max-w-6xl mx-auto">
                     <div class="flex flex-wrap">
-                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 lg:w-1/4">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 lg:w-1/4">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 lg:w-1/4">
                             <div class="ig-post-wrapper"></div>
                         </div>
-                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
-                            <div class="ig-post-wrapper"></div>
-                        </div>
-                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
-                            <div class="ig-post-wrapper"></div>
-                        </div>
-                        <div class="ig-post w-1/2 md:w-1/3 lg:w-1/5">
-                            <div class="ig-post-wrapper"></div>
-                        </div>
-                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
-                            <div class="ig-post-wrapper"></div>
-                        </div>
-                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
-                            <div class="ig-post-wrapper"></div>
-                        </div>
-                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
-                            <div class="ig-post-wrapper"></div>
-                        </div>
-                        <div class="hidden lg:block ig-post w-1/2 md:w-1/3 lg:w-1/5">
+                        <div class="ig-post w-1/2 lg:w-1/4">
                             <div class="ig-post-wrapper"></div>
                         </div>
                     </div>
                 </div>
                 <div class="text-center">
-                    <div class="std-btn secondary mx-auto sm">View more on Instagram</div>
+                    <a href="https://www.instagram.com/thedotexpress/" target="_blank" class="std-btn secondary mx-auto sm">View more on Instagram</a>
                 </div>
             </div>
 

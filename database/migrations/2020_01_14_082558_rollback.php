@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePledgesTable extends Migration
+class Rollback extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,7 @@ class CreatePledgesTable extends Migration
      */
     public function up()
     {
-        Schema::create('pledges', function (Blueprint $table) {
-            $table->bigIncrements('id');
-            $table->timestamps();
-        });
+        //
     }
 
     /**
@@ -26,6 +23,6 @@ class CreatePledgesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('pledges');
+        //
     }
 }

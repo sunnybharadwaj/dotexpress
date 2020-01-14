@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('layouts/site')
 @section('content')
     @include('components/navigation')
 

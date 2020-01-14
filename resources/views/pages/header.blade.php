@@ -1,6 +1,6 @@
 <header>
     <section id="header">
-        <div class="section-wrapper ">
+        <div class="section-wrapper hidden">
             <div class="header-bg top-section">
                 <div class="content-wrapper ">
                     <div class="header-text">
@@ -28,7 +28,7 @@
                             </div>
                             <div class="h5 small text-center mt-2">Announcement</div>
                             <div class="max-w-2xl mx-auto text-center pb-8">
-                                <div class="hl ">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences.</div>
+                                <div class="hl ">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences</div>
                                 <div class="links hidden">
                                     <div class="text-btn">Learn More</div>
                                     <div class="text-btn">View All Announcements</div>
@@ -41,8 +41,12 @@
 
         <div class="site-description">
             <div class="container">
-                <div class="max-w-3xl mx-auto text-center py-10 lg:py-16">
-                    <h3 class="">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences.</h3>
+
+                <div class="max-w-4xl mx-auto text-center py-12 lg:py-20">
+                    <div class="max-w-lg mx-auto pt-4 pb-2">
+                        @include ('snippets/logo')
+                    </div>
+                    <h4 class="font-normal">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences.</h4>
                 </div>
             </div>
         </div>
