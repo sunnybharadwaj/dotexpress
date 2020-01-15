@@ -1,8 +1,6 @@
-require('semantic-ui-form/form.min');
-require('semantic-ui-dropdown/dropdown.min');
+
 
 $(document).ready(function() {
-
     //Announcements Notifications
     const notification = $('.announcements-notification');
     setTimeout(

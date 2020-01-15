@@ -1,4 +1,4 @@
-<section id="voice">
+<section id="voice" class="mt-6">
     @include('snippets.modals.voice_modal')
     <div class="section-wrapper">
         <div class="section-intro">
@@ -17,7 +17,8 @@
                             </div>
                             <div class="desc">
                                 <p class="hl">
-                                    A space for children to express original ideas through creative writing, art and stories
+                                    A space for children to express original ideas through creative writing, art and
+                                    stories
                                     that reflect their view of the world and provide an impetus for change.
                                 </p>
                             </div>
@@ -35,8 +36,8 @@
         </div>
 
         <div class="">
-            <div class="voice-posts mt-8">
-                <div class="py-8 lg:py-12">
+            <div class="voice-posts">
+                <div class="">
                     <div class="container">
                         <div class="heading">
                             <div class="content-wrapper text-center">
@@ -69,9 +70,12 @@
 
                                             </div>
                                             <div class="post-desc small">
-                                                Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t heard of
-                                                her myself until very recently. Arunima Sinha is a former national volleyball
-                                                player…mountaineer and the first lady to climb Mount Everest, despite her
+                                                Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t
+                                                heard of
+                                                her myself until very recently. Arunima Sinha is a former national
+                                                volleyball
+                                                player…mountaineer and the first lady to climb Mount Everest, despite
+                                                her
                                                 disability.
                                             </div>
                                             <div class="post-links">
@@ -127,7 +131,8 @@
                                             </div>
 
                                             <div class="post-links">
-                                                <a href="https://open.spotify.com/show/4VPSGE1SRQ9ek8oq9mygGl?si=t1qW4cOrQVGAH5-jGs2LJQ" target="_blank" class="text-btn sm">
+                                                <a href="https://open.spotify.com/show/4VPSGE1SRQ9ek8oq9mygGl?si=t1qW4cOrQVGAH5-jGs2LJQ"
+                                                   target="_blank" class="text-btn sm">
                                                     Listen on Spotify
                                                 </a>
                                             </div>
@@ -149,52 +154,30 @@
             </div>
         </div>
 
-        <div class="cta py-16">
-            <div class="container">
-                <div class="flex flex-wrap">
-                    <div class="text w-full lg:w-5/12">
-                        <div class="max-w-md">
-                            <div class="content-wrapper py-12 lg:px-12">
-                                <h3 class="mb-4">Here’s your <br/>Golden Ticket!</h3>
-                                <p class="">
-                                    <span class="font-bold">Raise your voice, Speak your true language!</span> Submit an original essay, poem, artwork as a story based on the topic to have your work
-                                    featured here.
-                                </p>
-                                <p>
 
-                                </p>
-                            </div>
-                        </div>
+    </div>
 
-                    </div>
-                    <div class="ticket w-full lg:w-7/12">
-                        <div class="image-container">
-                            <img class="mx-auto " src="/static/voice/ticket.png" alt="">
-                        </div>
-                        <div class="content-wrapper relative lg:absolute">
-
-                            <div class="lg:max-w-sm mx-auto text-center">
-                                <h5 class="small">
-                                    Next Topic
-                                </h5>
-                                <div class="topic-statement">
-                                    <div class="h4 font-bold">
-                                        What changes does India need right now?
-                                    </div>
-                                </div>
-
-                                <a class="cta-btn">
-
-                                    <a href="/forms/submission" class="text-btn loud">
-                                        Submit Work
-                                    </a>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
+    <div class="text-center py-10 lg:py-16 bg-a2-l">
+        <div class="max-w-2xl mx-auto">
+            <h5 class="small">
+                Next Topic
+            </h5>
+            <div class="topic-statement">
+                <div class="h4 font-bold">
+                    What changes does India need right now?
                 </div>
             </div>
+
+            <p class="font-normal hl mt-4 mb-4">
+                Here’s your Golden Ticket! <span class="font-bold">Raise your voice, Speak your true language!</span>
+                Submit an original essay, poem, artwork as a story based on the topic to have your work
+                featured here.
+            </p>
+
+
+            <a href="/forms/submission" class="std-btn primary">
+                Submit Work
+            </a>
         </div>
     </div>
 </section>

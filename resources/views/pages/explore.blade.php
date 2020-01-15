@@ -95,7 +95,16 @@
                     <div class="loud-title h5 hl">Preview</div>
 
                     <div class="book-slide ">
-                        <img class="mx-auto" src="/static/explore/preview_1_janaka_ammal.jpg" alt="">
+                        <img class="mx-auto" src="/static/explore/preview/janaki_ammal.jpg" alt="Janaki Ammal">
+                    </div>
+                    <div class="book-slide ">
+                        <img class="mx-auto" src="/static/explore/preview/indra_nooyi.jpg" alt="Janaki Ammal">
+                    </div>
+                    <div class="book-slide ">
+                        <img class="mx-auto" src="/static/explore/preview/deepika.jpg" alt="Janaki Ammal">
+                    </div>
+                    <div class="book-slide ">
+                        <img class="mx-auto" src="/static/explore/preview/kalpana.jpg" alt="Janaki Ammal">
                     </div>
                     <div class="book-menu">
                         <div class="flex flex-wrap max-w-2xl mx-auto">
@@ -210,22 +219,21 @@
                                 </div>
                             </div>
                         </div>
-
-                        <div class="text-center pt-10 lg:pt-16">
-                            <div class="max-w-3xl mx-auto">
-                                <p class="font-bold h4 mt-4">
-                                    Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
-                                    language editions
-                                </p>
-                                <a href="/forms/pledge" class="std-btn primary">
-                                    Pledge Support
-                                </a>
-                            </div>
-                        </div>
                     </div>
                 </div>
 
             </div>
+        </div>
+    </div>
+    <div class="text-center py-10 lg:py-16 bg-a1-l">
+        <div class="max-w-3xl mx-auto">
+            <p class="font-bold h4 mt-4">
+                Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
+                language editions
+            </p>
+            <a href="/forms/pledge" class="std-btn primary">
+                Pledge Support
+            </a>
         </div>
     </div>
 </section>

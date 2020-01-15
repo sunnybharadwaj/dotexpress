@@ -4,7 +4,12 @@
         margin: 0.75em auto;
       }
       .partner {
-        padding: 10px 30px;
+        padding: 10px 25px;
+
+        .description {
+          letter-spacing: -0.013em;
+          font-size: 14px;
+        }
       }
       text-align: center;
       .icon {
@@ -12,4 +17,8 @@
         margin: 0 auto;
       }
     }
+
+  .partner-group-title {
+    padding: 20px 0;
+  }
 }

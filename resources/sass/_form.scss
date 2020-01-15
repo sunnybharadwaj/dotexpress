@@ -2,6 +2,17 @@
   background: $c-ll-gray;
   min-height: 100vh;
 
+  .form-menu-logo {
+    margin-bottom: 40px;
+    .logo {
+      max-width: 200px;
+    }
+  }
+
+  h5 {
+    margin: 40px 0 20px 0;
+  }
+
   ul.form-menu-list li {
     font-size:1.333em;
     display: block;
@@ -15,12 +26,29 @@
     width: 100%;
   }
 
+  input[type="radio"] {
+    width: auto;
+    margin-right: 10px;
+    margin-bottom: 5px;
+  }
+
+  select.ui.dropdown {
+    height: auto;
+  }
+
   .field {
     margin: 20px 0;
   }
 
   .menu {
     padding: 30px;
+  }
+
+  .page-form {
+    h4 {
+      font-weight: bold;
+    }
+
   }
 
   .form-wrapper .form-card {

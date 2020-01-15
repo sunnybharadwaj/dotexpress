@@ -1,4 +1,4 @@
-<section id="experience">
+<section id="experience" class="mt-6">
     <div class="section-wrapper">
         <div class="section-intro">
             <div class="container">
@@ -88,6 +88,18 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div class="text-center py-10 lg:py-16 bg-a3-l">
+        <div class="max-w-3xl mx-auto">
+            <p class="font-bold h4 mt-4">
+                HLF dolor sit amet, consectetur adipiscing elit. Fusce
+                tincidunt venenatis nibh, at aliquam orci ipsum dolor sit amet posuere vel.
+            </p>
+            <a href="/forms/pledge" class="std-btn primary">
+                Learn More
+            </a>
         </div>
     </div>
 </section>

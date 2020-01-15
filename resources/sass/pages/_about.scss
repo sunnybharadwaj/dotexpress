@@ -8,7 +8,9 @@
     background: $c-d-gray
   }
   .team {
-
+.team-title {
+  //color: $c-primary;
+}
     .text-btn {
       margin: 10px 10px 0 0;
     }
@@ -22,9 +24,10 @@
       padding-right: 25px;
 
       p {
-        max-height: 200px;
+        max-height: 154px;
         overflow: hidden;
         text-overflow: ellipsis;
+        font-size: 14px;
       }
       .h4 {
         margin-bottom: 6px;

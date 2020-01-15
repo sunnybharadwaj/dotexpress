@@ -1,7 +1,9 @@
 
 
 
-#announcements {
+#social {
+  background: $c-black;
+  color: #e6e6e6;
   .ig-block {
     .ig-post {
       padding: 5px;
@@ -11,6 +13,12 @@
       padding-top: 100%;
       background: $c-l-gray;
 
+    }
+  }
+
+  .social-list {
+    .social-icon img {
+      transform: scale(0.7);
     }
   }
 }

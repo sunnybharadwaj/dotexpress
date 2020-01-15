@@ -28,7 +28,7 @@
                                             <img src="" alt="">
                                         </div>
                                         <div class="content-wrapper">
-                                            <div class="h4 font-bold">Reema Gupta</div>
+                                            <div class="team-title h4 font-bold">Reema Gupta</div>
 
                                             <p class="">Reema is a dreamer. full of ideas to change the world. Her
                                                 favorite job is daydreaming and rescuing someone, anyone, be it plants,
@@ -56,7 +56,7 @@
                                             <img src="" alt="">
                                         </div>
                                         <div class="content-wrapper">
-                                            <div class="h4 font-bold">Sarada Akkineni</div>
+                                            <div class="team-title h4 font-bold">Sarada Akkineni</div>
 
                                             <p class="">Sarada is a voice of reason who loves to problem solve
                                                 while doing
@@ -81,7 +81,7 @@
                                             <img src="" alt="">
                                         </div>
                                         <div class="content-wrapper">
-                                            <div class="h4 font-bold">Lakshmi Nambiar</div>
+                                            <div class="team-title h4 font-bold">Lakshmi Nambiar</div>
 
                                             <p class="">Lakshmi keeps the above two grounded in reality,
                                                 repeatedly. An

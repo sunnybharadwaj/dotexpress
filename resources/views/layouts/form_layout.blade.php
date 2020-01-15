@@ -4,15 +4,20 @@
 
     <div id="form-page">
         <div class="container">
-            <div class="max-w-4xl py-6 lg:py-12">
-                <div class="max-w-sm  pt-4 pb-2">
-                    @include ('snippets/logo')
-                </div>
-            </div>
+
+            <div class="p-10"></div>
 
             <div class="flex">
                 <div class="w-full lg:w-4/12 form-menu">
                     <div class="menu">
+                        <div class="form-menu-logo">
+                            <a href="/" class="max-w-4xl ">
+                                <div class="logo max-w-sm  pt-4">
+                                    @include ('snippets/logo')
+                                </div>
+                            </a>
+                        </div>
+
                         <h5 class="small">Get in touch</h5>
                         <ul class="form-menu-list">
                             <li><a class="form-menu-btn" href="/forms/submission">Submit work</a></li>

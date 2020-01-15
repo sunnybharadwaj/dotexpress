@@ -18,6 +18,7 @@ class CreateSubmissionsTable extends Migration
             $table->string('name');
             $table->string('email');
             $table->string('phone');
+            $table->string('work_title');
             $table->text('work_desc');
             $table->string('filepath');
             $table->timestamps();

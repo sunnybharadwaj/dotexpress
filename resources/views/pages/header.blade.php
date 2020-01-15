@@ -45,7 +45,7 @@
                     <div class="max-w-lg mx-auto pt-4 pb-2">
                         @include ('snippets/logo')
                     </div>
-                    <h4 class="font-normal">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences.</h4>
+                    <h4 class="font-normal">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences</h4>
                 </div>
             </div>
         </div>
