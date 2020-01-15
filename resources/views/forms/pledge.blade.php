@@ -4,11 +4,11 @@
     <div class="page-form">
         <h4 class="mb-6">Pledge Support</h4>
         <p class="mb-4">Help us in our endeavour to reach as many children, in as many government schools as possible,
-            with our low cost Telugu edition of the book 'A Dot that went for a walk'. We aim to inspire children even
-            in the remotest parts of rural Andhra/Telangana, with stories of role models that they can look up to, as
+            with our low cost Telugu edition of the book 'The Dot that went for a walk'. We aim to inspire children even
+            in the remotest parts of rural India, with stories of role models that they can look up to, as
             they discover their highest potential.</p>
         <p class="mb-4">Copies of the Telugu translation of the book “The Dot that went for a walk” which will be
-            distributed to children in government schools. The book is priced at Rs.120.</p>
+            distributed to children in government schools.</p>
         <form class="ui form" method="POST" action="/message">
             @csrf
             @if($errors->any())

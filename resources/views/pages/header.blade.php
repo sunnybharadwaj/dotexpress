@@ -28,7 +28,7 @@
                             </div>
                             <div class="h5 small text-center mt-2">Announcement</div>
                             <div class="max-w-2xl mx-auto text-center pb-8">
-                                <div class="hl ">A digital platform for young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences</div>
+                                <div class="hl ">A digital platform for the young generation to Voice their thoughts, Explore new Ideas and build upon shared Experiences</div>
                                 <div class="links hidden">
                                     <div class="text-btn">Learn More</div>
                                     <div class="text-btn">View All Announcements</div>
