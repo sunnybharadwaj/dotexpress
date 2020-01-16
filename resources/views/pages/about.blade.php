@@ -29,21 +29,7 @@
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="team-title h4 font-bold">Reema Gupta</div>
-
-                                            <p class="">Reema is a dreamer. full of ideas to change the world. Her
-                                                favorite job is daydreaming and rescuing someone, anyone, be it plants,
-                                                animals or dead butterflies. She loves to do a lot of things but is
-                                                bound by
-                                                space, time and memory constraints. Her daughters keep her grounded,
-                                                hopeful
-                                                and grateful.
-                                            </p>
-                                            <p class="hidden">She truly believes there is an extra-in-the-ordinary story
-                                                in
-                                                every woman and is inspired by them. Reema co-leads the Women's
-                                                Excellence
-                                                Initiative at ISB and hopes to become a wonderful teacher in her second
-                                                professional avatar.</p>
+                                            <p class="">Reema is a dreamer. full of ideas to change the world. Her favorite job is daydreaming and rescuing someone, anyone, be it plants, animals or dead butterflies. She loves to do a lot of things but is bound by space, time and memory constraints. Her daughters keep her grounded, hopeful and grateful. Reema founded the Women's Excellence Initiative at the Indian School of Business and was a technologist in her previous avatar.</p>
                                         </div>
 
                                         <div class="links">
@@ -60,7 +46,6 @@
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="team-title h4 font-bold">Sarada Akkineni</div>
-
                                             <p class="">Sarada is a voice of reason who loves to problem solve
                                                 while doing
                                                 her 10 minute plank. Otherwise, she is a single tasker with a never
@@ -86,25 +71,7 @@
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="team-title h4 font-bold">Lakshmi Nambiar</div>
-
-                                            <p class="">Lakshmi keeps the above two grounded in reality,
-                                                repeatedly. An
-                                                investment banker by profession, you always want to be on the same side
-                                                of the
-                                                negotiating table as her. Typifying the ‘balance in the universe',
-                                                Lakshmi
-                                                matches her banker persona with her free spirit and ups the spiritual
-                                                quotient
-                                                of the team. </p>
-                                            <p class="hidden">Her true love is the arts. This love was inherited from her
-                                                mother
-                                                in the form of Shrishti Art Gallery which Lakshmi has nurtured and grown
-                                                into
-                                                one of the leading art galleries in South India. Lakshmi’s middle name
-                                                is
-                                                "travel", although she will never be at the location she said she is
-                                                going to
-                                                be.</p>
+                                            <p class="">Lakshmi keeps the above two grounded in reality, repeatedly. An investment banker by profession, you always want to be on the same side of the negotiating table as her. Typifying the ‘balance in the universe', Lakshmi matches her banker persona with her free spirit. Her true love is the arts. This love was inherited from her mother in the form of Shrishti Art Gallery which has grown into one of the leading art galleries in South India.  </p>
                                         </div>
                                         <div class="links">
                                             <div class="text-btn no-border">Read More</div>

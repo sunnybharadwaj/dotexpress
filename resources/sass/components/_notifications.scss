@@ -1,11 +1,11 @@
-.announcements-notification {
+.notification {
 width: 100%;
   padding: 30px 20px;
   position: fixed;
   bottom:0;
   left: 0;
   background: transparent;
-  z-index: 1100;
+  z-index: 5000;
 
   .content-wrapper {
     margin: 0 auto;
@@ -17,7 +17,7 @@ width: 100%;
     border-top: 12px solid rgb(217, 72, 72);
   }
 
-  #close-btn {
+  .close-btn {
     position: absolute;
     width: 35px;
     height: 35px;

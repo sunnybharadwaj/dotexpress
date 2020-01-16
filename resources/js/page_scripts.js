@@ -7,15 +7,15 @@ $(document).ready(function() {
         $(this).attr('src',src);
     });
     //Announcements Notifications
-    const notification = $('.announcements-notification');
+    const notification = $('.announcement-notification');
     setTimeout(
         function()
         {
             notification.removeClass('hidden');
         }, 1000);
 
-    $('.announcements-notification #close-btn').click(function() {
-        notification.addClass('hidden');
+    $('.notification .close-btn').click(function() {
+        $(this).parents('.notification').addClass('hidden');
     });
 
 

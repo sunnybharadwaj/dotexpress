@@ -13,12 +13,14 @@ class CreatePledgesTable extends Migration
      */
     public function up()
     {
-        Schema::create('pledges', function (Blueprint $table) {
+        Schema::create('pledge_posts', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('copies');
             $table->string('name');
+            $table->string('lang');
             $table->string('org_name');
-            $table->string('office_email');
+            $table->string('channel');
+            $table->string('email');
             $table->string('phone');
             $table->text('message');
             $table->timestamps();

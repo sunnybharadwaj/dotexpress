@@ -3,13 +3,9 @@
 
     <div class="page-form">
         <h4 class="mb-6">Pledge Support</h4>
-        <p class="mb-4">Help us in our endeavour to reach as many children, in as many government schools as possible,
-            with our low cost Telugu edition of the book 'The Dot that went for a walk'. We aim to inspire children even
-            in the remotest parts of rural India, with stories of role models that they can look up to, as
-            they discover their highest potential.</p>
-        <p class="mb-4">Copies of the book “The Dot that went for a walk” which will be
-            distributed to children in government schools.</p>
-        <form class="ui form" method="POST" action="/message">
+        <p class="mb-4">Help us in our endeavor to reach as many children as possible with our low-cost regional language edition of the book, "The Dot that went for a walk...". Through these stories, we would like the children to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt.</p>
+        <p class="mb-4">The number of copies pledged below can either be distributed through our foundation partners or you have the option to distribute it yourself.</p>
+        <form class="ui form" method="POST" action="/forms/pledge">
             @csrf
             @if($errors->any())
                 <div class="ui negative message">
@@ -38,7 +34,6 @@
 
             <div class="max-w-3xl mx-auto">
                 <div class="mx-auto min-w-full">
-
                     <div class="field">
                         <label for="lang">Which language of the book do you choose:</label>
                         <select required class="ui search dropdown"
@@ -48,6 +43,19 @@
                             <option value="Real Estates">Telugu - INR 120 per Book</option>
                             <option value="Retail">Hindi - INR 120 per Book</option>
                         </select>
+                    </div>
+                    <div class="field">
+                        <label for="copies">The number of copies pledged below can either be distributed through our foundation partners or you have the option to distribute it yourself. </label>
+                        <input type="radio" name="channel" value="Teach for Change">Teach for Change<br>
+                        <input type="radio" name="channel" value="Nanhi Kali">Nanhi Kali<br>
+                        <input type="radio" name="channel" value="Self">Self<br>
+                        <div class="my-2">
+                            or<br/>
+                        </div>
+
+                        <input id="name" name="copies" type="text"
+                               placeholder="Other">
+
                     </div>
 
                     <div class="field">
