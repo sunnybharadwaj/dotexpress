@@ -13,7 +13,7 @@
                                 <h2 class="h1 font-normal">Voice</h2>
                             </div>
                             <div class="quote max-w-md">
-                                <h3 class="font-normal">My voice is important because I am the future.</h3>
+                                <h3 class="font-normal">My voice is important because I am the future</h3>
                             </div>
                             <div class="desc">
                                 <p class="hl">
@@ -54,9 +54,8 @@
                         <div class="heading">
                             <div class="content-wrapper text-center">
                                 <h3 class="h4 my-4">
-                                    Topic: Who’s your woman role model?
+                                    Theme: Who’s your Indian woman role model?
                                 </h3>
-                                <h4 class="hl mb-4 opacity-50">Here's what you've submitted</h4>
                             </div>
                         </div>
 
@@ -75,12 +74,12 @@
                                         <div class="text">
                                             <div class="post-header">
                                                 <h5 class="mr-2 small inline-block">Essay</h5>
-                                                <div class="small font-bold inline-block">Adhya Kartik</div>
+
                                             </div>
                                             <div class="post-title">
                                                 Rising Like a Phoenix
-
                                             </div>
+                                            <div class="small font-bold inline-block mb-2">by Adhya Kartik</div>
                                             <div class="post-desc small">
                                                 Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t
                                                 heard of
@@ -161,11 +160,11 @@
                                         <div class="text">
                                             <div class="post-header">
                                                 <h5 class="mr-2 small inline-block">Artwork</h5>
-                                                <div class="small font-bold inline-block">Adhya Kartik</div>
                                             </div>
                                             <div class="post-title">
                                                 Jhansi Lakshmi Bai
                                             </div>
+                                            <div class="small font-bold inline-block mb-2">by Adhya Kartik</div>
 
                                             <div class="post-links">
                                                 <a href="" class="text-btn sm">
@@ -187,12 +186,13 @@
                                         <div class="text">
                                             <div class="post-header">
                                                 <h5 class="mr-2 small inline-block">Podcast</h5>
-                                                <div class="small font-bold inline-block">Sahana Mallipudi</div>
+
+                                                <div class="small font-bold inline-block"></div>
                                             </div>
                                             <div class="post-title">
                                                 Mary Kom
                                             </div>
-
+                                            <div class="small font-bold inline-block mb-2">Sahana Mallipudi</div>
                                             <div class="post-links">
                                                 <a href="https://open.spotify.com/show/4VPSGE1SRQ9ek8oq9mygGl?si=t1qW4cOrQVGAH5-jGs2LJQ"
                                                    target="_blank" class="text-btn sm">
@@ -227,14 +227,12 @@
             </h5>
             <div class="topic-statement">
                 <div class="h4 font-bold">
-                    What changes does India need right now?
+                    What problems do you want to solve when you grow up? What do you think the world needs?
                 </div>
             </div>
 
             <p class="font-normal hl mt-4 mb-4">
-                Here’s your Golden Ticket! <span class="font-bold">Raise your voice, Speak your true language!</span>
-                Submit an original essay, poem, artwork as a story based on the topic to have your work
-                featured here.
+                Here’s your Golden Ticket! Submit an original essay, poem, artwork or a podcast that is a response to the question above. We will feature the best entries on TheDotExpress.
             </p>
 
 

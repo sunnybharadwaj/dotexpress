@@ -33,7 +33,6 @@
                                         </div>
 
                                         <div class="links">
-                                            <div class="text-btn no-border">Read More</div>
                                             <a href="https://in.linkedin.com/in/reema-gupta-7b2ba53" target="_blank" class="text-btn no-border">Linkedin</a>
                                         </div>
                                     </div>
@@ -74,7 +73,7 @@
                                             <p class="">Lakshmi keeps the above two grounded in reality, repeatedly. An investment banker by profession, you always want to be on the same side of the negotiating table as her. Typifying the ‘balance in the universe', Lakshmi matches her banker persona with her free spirit. Her true love is the arts. This love was inherited from her mother in the form of Shrishti Art Gallery which has grown into one of the leading art galleries in South India.  </p>
                                         </div>
                                         <div class="links">
-                                            <div class="text-btn no-border">Read More</div>
+                                            <a href="https://www.linkedin.com/in/lakshmi-nambiar-7a85a71/" target="_blank" class="text-btn no-border">Linkedin</a>
                                         </div>
                                     </div>
                                 </div>

@@ -12,8 +12,7 @@
                             </div>
                         </div>
                         <div class="max-w-2xl mx-auto text-center hidden">
-                            <p class="hl">A digital platform for young generation to Voice their thoughts, Explore new
-                                Ideas and build upon shared Experiences.</p>
+                            <p class="hl">A digital platform for the young generation to Explore new ideas, Voice their thoughts and build upon shared Experiences</p>
                         </div>
                     </div>
                 </div>
@@ -42,13 +41,15 @@
                     </div>
 
                     <div class="h5 small text-center mt-2">Announcement</div>
-                    <div class="max-w-2xl mx-auto text-center pb-8">
-                        <div class="hl ">A digital platform for the young generation to Voice their thoughts,
-                            Explore new Ideas and build upon shared Experiences
+                    <div class="max-w-lg mx-auto text-center pb-8">
+                        <div class="p font-bold mb-2">Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
                         </div>
-                        <div class="links hidden">
-                            <div class="text-btn">Learn More</div>
-                            <div class="text-btn">View All Announcements</div>
+                        <div class="hl">1. Design your own cover page (Jan 24, 12:00pm)</div>
+                        <div class="hl">2. Finding your Ikigai (Jan 25, 2:00pm)</div>
+
+                        <div class="links">
+                            <a href="https://www.hydlitfest.org/" target="_blank" class="text-btn">Learn More</a>
+                            {{--<div class="text-btn">View All Announcements</div>--}}
                         </div>
                     </div>
                 </div>

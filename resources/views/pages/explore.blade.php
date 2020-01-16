@@ -12,7 +12,7 @@
                                 <h2 class="h1 font-normal">Explore</h2>
                             </div>
                             <div class="quote max-w-sm">
-                                <h3 class="font-normal">I will learn what it takes, to get where I want.</h3>
+                                <h3 class="font-normal">I will learn what it takes, to get where I want</h3>
                             </div>
                             <div class="desc">
                                 <p class="hl">
@@ -129,7 +129,7 @@
                             </div>
                             <div class="flex-wrapper w-full md:w-1/4">
                                 <div id="indira-preview-link" class="text-btn preview-link book-link">
-                                    Indira Nooyi
+                                    Indra Nooyi
                                 </div>
                             </div>
 

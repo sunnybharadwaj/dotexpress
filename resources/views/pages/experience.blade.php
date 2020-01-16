@@ -12,7 +12,7 @@
                                 <h2 class="h1 font-normal">Experience</h2>
                             </div>
                             <div class="quote max-w-md">
-                                <h3 class="font-normal">My Ideas take wing only through action.</h3>
+                                <h3 class="font-normal">My Ideas take wing only through action</h3>
                             </div>
                             <div class="desc">
                                 <p class="hl">
@@ -52,7 +52,7 @@
                                 <div class="img-container">
                                     <img src="/static/experience/indiranooyi.jpg" alt="">
                                 </div>
-                                <div class="attribution small opacity-50 mt-2">Indira Nooyi by Dia Bhupal</div>
+                                <div class="attribution small opacity-50 mt-2">Indra Nooyi by Dia Bhupal</div>
                             </div>
                             <div class="text ">
                                 <div class="mb-4">
@@ -70,6 +70,10 @@
                                     <div id="cover-link" class="text-btn activity-link">
                                         Learn More
                                     </div>
+                                    <a href="https://www.hydlitfest.org/nanha-nukkad-4/" target="_blank" class="text-btn activity-link">
+                                        Register Now
+                                    </a>
+
                                 </div>
                             <div id="cover-modal" class="activity-modal" >
                                 <div class="modal-wrapper hidden">
@@ -127,6 +131,9 @@
                                 <div id="ikigai-link" class="text-btn activity-link">
                                     Learn More
                                 </div>
+                                <a href="https://www.hydlitfest.org/workshops-3/" class="text-btn activity-link" target="_blank">
+                                    Register Now
+                                </a>
                             </div>
                             <div id="ikigai-modal" class="activity-modal" >
                                 <div class="modal-wrapper hidden">
@@ -145,7 +152,6 @@
                                                         <p class="font-bold mb-2">January 24-26 2020</p>
                                                         <p class="font-bold">Hyderabad Literary Festival 2020</p>
                                                     </div>
-
 
                                                     <p class="opacity-75">
                                                         Ikigai is a Japanese concept that focuses on discovering your "reason for being".  In this workshop, we will start with a brief discussion on the concept of Ikigai and through a set of structured questions help children learn the difference between passion, skills and ultimately getting paid for what they do. This will be followed by an exercise on identifying what kind of problems she/he would want to solve when they grow-up. We will break the children into groups based on similar interests and help them delve deeper into the problem and the knowledge/expertise required to solve that particular problem.  We hope this workshop will help the participants discover their vocation. This framework can also be used whenever they are at crossroads in life.</p>.
@@ -168,11 +174,23 @@
 
     <div class="text-center py-10 lg:py-16 bg-a3-l">
         <div class="max-w-3xl mx-auto">
+            <h4 class="mb-4">
+                Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
+            </h4>
+            <h4 class="font-bold mb-2">1. Design your own cover page (Jan 24, 12:00pm)</h4>
+            <h4 class="font-bold mb-2">2. Finding your Ikigai (Jan 25, 2:00pm)</h4>
+
+
             <p class="font-bold h4 mt-4">
-                HLF dolor sit amet, consectetur adipiscing elit. Fusce
-                tincidunt venenatis nibh, at aliquam orci ipsum dolor sit amet posuere vel.
+
+                <ul>
+
+
+            </ul>
+
+
             </p>
-            <a href="/forms/pledge" class="std-btn primary">
+            <a href="https://www.hydlitfest.org/" target="_blank" class="std-btn primary">
                 Learn More
             </a>
         </div>
