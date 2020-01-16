@@ -35,7 +35,7 @@ class FormsController extends Controller
         $data = (object)$validatedData;
         PledgePost::create($validatedData);
         $emails = ['lakshmi@shrishtiart.com', 'akkineni.sarada@gmail.com','sunny@chakradesign.co', 'reemagpt@gmail.com', 'adil@chakradesign.co'];
-        \Mail::to('sunny@chakradesign.co')
+        \Mail::to($emails)
             ->queue(new PledgeEmail($data));
         session()->flash("message", "Thank you for your submission. We will get back to you soon.");
         return redirect('/');
