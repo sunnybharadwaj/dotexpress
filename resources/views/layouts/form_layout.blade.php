@@ -20,8 +20,8 @@
 
                         <h5 class="small">Get in touch</h5>
                         <ul class="form-menu-list">
-                            <li><a class="form-menu-btn" href="/forms/submission">Submit work</a></li>
-                            <li><a class="form-menu-btn" href="/forms/pledge">Pledge Support</a></li>
+                            {{--<li><a class="form-menu-btn" href="/forms/submission">Submit work</a></li>--}}
+                            {{--<li><a class="form-menu-btn" href="/forms/pledge">Pledge Support</a></li>--}}
                             <li><a class="form-menu-btn" href="/forms/contact">Contact Us</a></li>
                             <li><a href="/">Back Home</a></li>
                         </ul>

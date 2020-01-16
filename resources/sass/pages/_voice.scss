@@ -40,6 +40,26 @@
         }
       }
     }
+
+    .post-link {
+
+    }
+
+    .post-modal {
+      .post-wrapper {
+        max-height: 420px;
+        overflow-y: scroll;
+
+        h3 {
+          margin-bottom: 12px;
+        }
+        p {
+          margin-bottom: 10px;
+        }
+        .post-header {
+        }
+      }
+    }
   }
 
   .cta {

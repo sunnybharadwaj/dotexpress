@@ -20,18 +20,19 @@
       }
     }
     .book-testimonials {
-      //.quote-content {
-      //  max-width: 700px;
-      //  margin: 0 auto;
-      //  text-align: center;
-      //}
+
     }
     .flex-wrapper {
       text-align: center;
     }
-     .book-link {
+     .book-link, .preview-link {
       display: inline-block;
       margin: 0;
+
+       &.active {
+         font-weight: bold;
+         border-bottom: 3px solid $c-primary;
+       }
 
     }
 

@@ -10,6 +10,7 @@
   z-index: 3000;
 
   .modal-container {
+    min-width: 400px;
     max-width: 900px;
     margin: 0 auto;
     position: absolute;
@@ -21,11 +22,22 @@
     box-shadow: 0 20px 32px -4px rgba(3,10,28,0.2);
     border-top: 12px solid rgb(217, 72, 72);
     border-radius: 6px;
-    min-width: 70%;
-    min-height: 600px;
+    min-height: 400px;
   }
 
-  #close-btn {
+  .content-wrapper {
+    width: 100%;
+    @media (min-width: 768px) {
+      width: 768px;
+    }
+    max-height: 420px;
+    overflow-y: scroll;
+  }
+  .modal-content {
+
+
+  }
+  .close-icon {
     position: absolute;
     width: 35px;
     height: 35px;

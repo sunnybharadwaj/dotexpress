@@ -1,0 +1,24 @@
+
+
+
+#social {
+  background: #061825;
+  color: #e6e6e6;
+  .ig-block {
+    .ig-post {
+      padding: 5px;
+    }
+    .ig-post-wrapper {
+      width: 100%;
+      padding-top: 100%;
+      background: $c-l-gray;
+
+    }
+  }
+
+  .social-list {
+    .social-icon img {
+      transform: scale(0.7);
+    }
+  }
+}

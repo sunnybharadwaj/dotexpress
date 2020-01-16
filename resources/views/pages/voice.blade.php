@@ -1,5 +1,5 @@
 <section id="voice" class="mt-6">
-    @include('snippets.modals.voice_modal')
+
     <div class="section-wrapper">
         <div class="section-intro">
             <div class="container">
@@ -24,12 +24,24 @@
                             </div>
                         </div>
                     </div>
-                    <div class="video w-full lg:w-5/12">
+                    <div id="voice-video-link" class="video w-full lg:w-5/12">
+                        <div class="overlay">
+                            <h5 class="">WATCH VIDEO</h5>
+                        </div>
                         <div class="content-wrapper">
                             <div class="img-wrapper">
                                 <img src="" alt="">
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div id="voice-video-modal" class="video-modal hidden">
+                    <div class="close-btn">
+                        <img src="/static/icons/icon_close_white.svg" alt="Close Video">
+                    </div>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/nfQHF87vY0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -79,10 +91,61 @@
                                                 disability.
                                             </div>
                                             <div class="post-links">
-                                                <a href="" class="text-btn sm">
+                                                <a href="javascript:void(0);" id="essay-link" class="post-link text-btn sm">
                                                     Continue reading
                                                 </a>
+                                            </div>
 
+                                            <div id="essay-modal" class="post-modal" >
+                                                <div class="modal-wrapper hidden">
+                                                    <div class="modal-container">
+                                                        <div class="container">
+                                                            <div class="relative">
+                                                                <div class="close-icon close-btn">
+                                                                    <img src="/static/icons/icon_close_black.svg" alt="Close Announcements">
+                                                                </div>
+                                                            </div>
+                                                            <div class="post-wrapper">
+                                                                <div class="post-header">
+                                                                    <h5 class="mr-2 small inline-block">Essay</h5>
+                                                                    <div class="small font-bold inline-block">Adhya Kartik</div>
+                                                                </div>
+                                                                <h3>
+                                                                    Rising like a Phoenix
+                                                                </h3>
+
+
+                                                                <div class="max-w-3xl">
+                                                                    <p>Arunima Sinha. Does this name ring a bell? Well, truth be told, I hadn’t heard of her myself until very recently.</p>
+
+                                                                    <p>Arunima Sinha is a former national volleyball player, mountaineer and the first lady to climb Mount Everest, despite her disability.</p>
+
+                                                                    <p>Little did she know that April 2011 was going to change her life forever. While travelling by train(Padmavati Express) to give an examination to join the CISF (Central Industrial Security Force), a bunch of thieves tried to snatch her purse and chain. During this episode, she was pushed off the moving train and fell on the adjacent track where another train ran over her left leg. To make matters worse, she lay there all night. It was only in the morning that she was rescued. Doctors had no choice but to amputate her left leg.</p>
+
+                                                                    <p>This was a turning point in her career. Having been so active until now, suddenly she was left devastated. She felt that she had let herself down, had lost all hope and needed something to keep her sanity intact. To divert her mind, she turned to mountaineering.</p>
+
+                                                                    <p>It is said that Arunima was inspired by Yuvraj Singh’s comeback to cricket post his fight with cancer. Her infallible determination to overcome her disability, led her to decide that she would climb the highest peak in every continent.  She turned to Bachendri Pal (the first Indian woman to climb Mt Everest) for mentorship and successfully summited Mount Everest on 21 May 2013.</p>
+
+                                                                    <p>She turned her shortcoming into a challenge, did not let her limitations contain her abilities and set forward to do something that no one would have thought of. Her dedication and determination to push forward is an inspiration to everyone.</p>
+
+                                                                    <p>I am a basketball player myself and very recently injured my knee. The doctor advised me to put the sport on hold and this shattered me. What I experienced cannot even be considered a fraction of what she went through. However, I can relate to her mental state.</p>
+
+                                                                    <p>Arunima Sinha, Yuvraj Singh (a cricketer who fought against cancer), Sudha Chandran (a classical dancer with an amputated leg), Ravindra Jain(a blind music director) and many such personalities have proved that a strong determination and will is far more important than a strong body. They have all overcome their challenges and made history in their respective fields.</p>
+
+                                                                    <p>Now, every time I come across a hurdle and think “Why me?”, I remind myself that if these people can overcome their limitations and find meaning in their lives, then I can too.</p>
+
+                                                                    <p>They say that if you truly want something from the heart, the whole universe conspires to bring it to you. Arunima Sinha is a perfect example of a phoenix who rose from the ashes to become more powerful and stronger than ever before.</p>
+
+                                                                    <p>This truly makes me believe that there is a reason for everything that happens in our lives.</p>
+                                                                </div>
+
+                                                            </div>
+                                                            <div class="modal-btns">
+                                                                <div class="text-btn close-btn lg c-primary">Close</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -159,7 +222,7 @@
 
     <div class="text-center py-10 lg:py-16 bg-a2-l">
         <div class="max-w-2xl mx-auto">
-            <h5 class="small">
+            <h5 class="">
                 Next Topic
             </h5>
             <div class="topic-statement">

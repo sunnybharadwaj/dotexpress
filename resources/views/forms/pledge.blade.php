@@ -7,7 +7,7 @@
             with our low cost Telugu edition of the book 'The Dot that went for a walk'. We aim to inspire children even
             in the remotest parts of rural India, with stories of role models that they can look up to, as
             they discover their highest potential.</p>
-        <p class="mb-4">Copies of the Telugu translation of the book “The Dot that went for a walk” which will be
+        <p class="mb-4">Copies of the book “The Dot that went for a walk” which will be
             distributed to children in government schools.</p>
         <form class="ui form" method="POST" action="/message">
             @csrf
@@ -44,9 +44,9 @@
                         <select required class="ui search dropdown"
                                 name="lang" id="lang">
                             <option value="">Select Language</option>
-                            <option value="Homes">English</option>
-                            <option value="Real Estates">Telugu</option>
-                            <option value="Retail">Hindi</option>
+                            <option value="Homes">English - INR 649 per Book</option>
+                            <option value="Real Estates">Telugu - INR 120 per Book</option>
+                            <option value="Retail">Hindi - INR 120 per Book</option>
                         </select>
                     </div>
 

@@ -2,7 +2,7 @@
     <div class="section-wrapper">
         <div class="container">
             <div class="pt-12 pb-2">
-                <div class="py-8 mb-12">
+                <div class="mb-12">
                     <div class="flex flex-wrap">
                         <div class="side-l w-full lg:w-1/2">
                             <div class="h5 mb-4">About Us</div>
@@ -19,7 +19,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="team-list" class="team pt-24">
+                    <div id="team-list" class="team pt-12">
                         <div class="team">
                             <div class="flex flex-wrap">
                                 <div class="team-member w-full lg:w-1/3">
@@ -36,16 +36,19 @@
                                                 bound by
                                                 space, time and memory constraints. Her daughters keep her grounded,
                                                 hopeful
-                                                and grateful. She truly believes there is an extra-in-the-ordinary story
+                                                and grateful.
+                                            </p>
+                                            <p class="hidden">She truly believes there is an extra-in-the-ordinary story
                                                 in
                                                 every woman and is inspired by them. Reema co-leads the Women's
                                                 Excellence
                                                 Initiative at ISB and hopes to become a wonderful teacher in her second
-                                                professional avatar.</div>
+                                                professional avatar.</p>
+                                        </div>
 
                                         <div class="links">
                                             <div class="text-btn no-border">Read More</div>
-                                            <div class="text-btn no-border">Linkedin</div>
+                                            <a href="https://in.linkedin.com/in/reema-gupta-7b2ba53" target="_blank" class="text-btn no-border">Linkedin</a>
                                         </div>
                                     </div>
                                 </div>
@@ -68,10 +71,11 @@
                                                 in her
                                                 treks and she has flown a Cessna too! She is an engineer and a director
                                                 at Blaze
-                                                Automation.</div>
+                                                Automation.
+                                            </p>
+                                        </div>
                                         <div class="links">
-                                            <div class="text-btn no-border">Read More</div>
-                                            <div class="text-btn no-border">Linkedin</div>
+                                            <a href="https://in.linkedin.com/in/sarada-akkineni" target="_blank" class="text-btn no-border">Linkedin</a>
                                         </div>
                                     </div>
                                 </div>
@@ -91,7 +95,8 @@
                                                 Lakshmi
                                                 matches her banker persona with her free spirit and ups the spiritual
                                                 quotient
-                                                of the team. Her true love is the arts. This love was inherited from her
+                                                of the team. </p>
+                                            <p class="hidden">Her true love is the arts. This love was inherited from her
                                                 mother
                                                 in the form of Shrishti Art Gallery which Lakshmi has nurtured and grown
                                                 into
@@ -99,10 +104,10 @@
                                                 is
                                                 "travel", although she will never be at the location she said she is
                                                 going to
-                                                be.</div>
+                                                be.</p>
+                                        </div>
                                         <div class="links">
                                             <div class="text-btn no-border">Read More</div>
-                                            <div class="text-btn no-border">Linkedin</div>
                                         </div>
                                     </div>
                                 </div>

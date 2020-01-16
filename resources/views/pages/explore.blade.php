@@ -23,13 +23,27 @@
                             </div>
                         </div>
                     </div>
-                    <div class="video w-full lg:w-5/12">
+
+                    <div id="explore-video-link" class="video w-full lg:w-5/12">
+                        <div class="overlay">
+                            <h5 class="">WATCH VIDEO</h5>
+                        </div>
                         <div class="content-wrapper">
                             <div class="img-wrapper">
-                                <img src="" alt="">
                             </div>
                         </div>
                     </div>
+
+                    <div id="explore-video-modal" class="video-modal  hidden">
+                        <div class="close-btn">
+                            <img src="/static/icons/icon_close_white.svg" alt="Close Video">
+                        </div>
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/nfQHF87vY0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
         </div>
@@ -93,39 +107,40 @@
             <div class="preview">
                 <div class="content-wrapper hidden md:block">
                     <div class="loud-title h5 hl">Preview</div>
-
-                    <div class="book-slide ">
-                        <img class="mx-auto" src="/static/explore/preview/janaki_ammal.jpg" alt="Janaki Ammal">
-                    </div>
-                    <div class="book-slide ">
-                        <img class="mx-auto" src="/static/explore/preview/indra_nooyi.jpg" alt="Janaki Ammal">
-                    </div>
-                    <div class="book-slide ">
+                    <div id="deepika-preview-slide" class="preview-slide book-slide ">
                         <img class="mx-auto" src="/static/explore/preview/deepika.jpg" alt="Janaki Ammal">
                     </div>
-                    <div class="book-slide ">
+                    <div id="janaki-preview-slide" class="preview-slide book-slide hidden">
+                        <img class="mx-auto" src="/static/explore/preview/janaki_ammal.jpg" alt="Janaki Ammal">
+                    </div>
+                    <div id="indira-preview-slide" class="preview-slide book-slide hidden">
+                        <img class="mx-auto" src="/static/explore/preview/indra_nooyi.jpg" alt="Janaki Ammal">
+                    </div>
+
+                    <div id="kalpana-preview-slide" class="preview-slide book-slide hidden">
                         <img class="mx-auto" src="/static/explore/preview/kalpana.jpg" alt="Janaki Ammal">
                     </div>
                     <div class="book-menu">
                         <div class="flex flex-wrap max-w-2xl mx-auto">
                             <div class="flex-wrapper w-full md:w-1/4">
-                                <div class="text-btn book-link">
-                                    Janaki Ammal
-                                </div>
-                            </div>
-                            <div class="flex-wrapper w-full md:w-1/4">
-                                <div class="text-btn book-link">
-                                    Indira Nooyi
-                                </div>
-                            </div>
-                            <div class="flex-wrapper w-full md:w-1/4">
-                                <div class="text-btn book-link">
+                                <div id="deepika-preview-link" class="text-btn preview-link book-link active">
                                     Deepika Padukone
                                 </div>
                             </div>
                             <div class="flex-wrapper w-full md:w-1/4">
-                                <div class="text-btn book-link">
+                                <div id="indira-preview-link" class="text-btn preview-link book-link">
+                                    Indira Nooyi
+                                </div>
+                            </div>
+
+                            <div class="flex-wrapper w-full md:w-1/4">
+                                <div id="kalpana-preview-link" class="text-btn preview-link book-link">
                                     Kalpana Chawla
+                                </div>
+                            </div>
+                            <div class="flex-wrapper w-full md:w-1/4">
+                                <div id="janaki-preview-link" class="text-btn preview-link book-link">
+                                    Janaki Ammal
                                 </div>
                             </div>
                         </div>
