@@ -12,7 +12,7 @@
                             </div>
                         </div>
                         <div class="max-w-2xl mx-auto text-center hidden">
-                            <p class="hl">A digital platform for the young generation to Explore new ideas, Voice their thoughts and build upon shared Experiences</p>
+                            <p class="hl"></p>
                         </div>
                     </div>
                 </div>
@@ -27,8 +27,7 @@
                     <div class="max-w-lg mx-auto pt-4 pb-2">
                         @include ('snippets/logo')
                     </div>
-                    <h4 class="font-normal">A digital platform for young generation to Voice their thoughts, Explore new
-                        Ideas and build upon shared Experiences</h4>
+                    <h4 class="font-normal">A digital platform for the young generation to Explore new ideas, Voice their thoughts and build upon shared Experiences</h4>
                 </div>
             </div>
         </div>

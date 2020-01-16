@@ -227,12 +227,12 @@
             </h5>
             <div class="topic-statement">
                 <div class="h4 font-bold">
-                    What problems do you want to solve when you grow up? What do you think the world needs?
+                    What problems do you want to solve when you grow up? How is it related to what the world needs?
                 </div>
             </div>
 
             <p class="font-normal hl mt-4 mb-4">
-                Here’s your Golden Ticket! Submit an original essay, poem, artwork or a podcast that is a response to the question above. We will feature the best entries on TheDotExpress.
+                Submit an original essay, poem, artwork or a podcast that is a response to the question above. We will feature the best entries on TheDotExpress.
             </p>
 
 
