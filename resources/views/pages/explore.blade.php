@@ -220,15 +220,12 @@
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
                                     <div class="max-w-2xl lg:pl-16">
-                                        <div class="h3 mb-4 pt-4">Low-cost Telugu translation of the book is now in print.</div>
+                                        <div class="h3">Regional language translations - Low Cost Editions</div>
                                         <p>
-                                            Our larger vision is that every girl in every government school should have
-                                            access to this book. Hence, we are translating the book into regional
-                                            languages in low-cost print format. We launched the Telugu edition on Nov
-                                            27, 2019 and will be releasing the Hindi edition soon. We are working with
-                                            foundations like Teach for Change and Nanhi Kali to distribute our books and
-                                            reach remote rural areas.
+                                            Our larger vision is that every girl in every government school should have access to this book. Through these stories, we would like a girl child, to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt. Hence, we are translating the book into regional languages in low-cost print format. We launched the Telugu edition on Nov 27, 2019 and will be releasing the Hindi edition soon. We are working with foundations like Teach for Change and Nanhi Kali to distribute our books and reach remote rural areas.
+
                                         </p>
+                                        <p></p>
                                     </div>
                                 </div>
                             </div>

@@ -12,7 +12,7 @@
                                 <h2 class="h1 font-normal">Experience</h2>
                             </div>
                             <div class="quote max-w-md">
-                                <h3 class="font-normal">My Ideas take wing only through action</h3>
+                                <h3 class="font-normal">My ideas take wing only through action</h3>
                             </div>
                             <div class="desc">
                                 <p class="hl">
@@ -62,15 +62,14 @@
                                     <p class="font-bold">Hyderabad Literary Festival 2020</p>
                                 </div>
 
-
                                 <p class="max-w-md opacity-75 activity-desc">
-                                    Children are full of dreams and aspirations.  This workshop will bring them one step closer to their dreams by helping them visualize success.  As Marian Edelman rightly said, "you can't be what you can't see."  We start with a short quiz and discussion on role models, who do the children look up to and what specific traits and achievements they admire about their role models.  This will be followed by an exercise where the children imagine themselves to be on the cover of a magazine and draw out what it would look like.  They have to think about the Title of the magazine, tag lines that would be on the cover page and a short paragraph for the cover story.  What would it say about them? What would the cover story describe?</p>
+                                    Children are full of dreams and aspirations.  This workshop will bring them one step closer to their dreams by helping them visualize success.  As Marian Edelman rightly said, "you can't be what you can't see."  We start with a short quiz and discussion on role models, who do the children look up to and what specific traits and achievements they admire about their role models.  This will be followed by an exercise where the children imagine themselves to be on the cover of a magazine and draw out what it would look like.  They have to think about the title of the magazine, tag lines that would be on the cover page and a short paragraph for the cover story.  What would it say about them? What would the cover story describe?</p>
                             </div>
                                 <div class="links">
                                     <div id="cover-link" class="text-btn activity-link">
                                         Learn More
                                     </div>
-                                    <a href="https://www.hydlitfest.org/nanha-nukkad-4/" target="_blank" class="text-btn activity-link">
+                                    <a href="https://forms.gle/NqdKeFgVV7fmHN8X8" target="_blank" class="text-btn activity-link">
                                         Register Now
                                     </a>
 
@@ -93,13 +92,15 @@
                                                         <p class="font-bold">Hyderabad Literary Festival 2020</p>
                                                     </div>
 
-
                                                     <p class="opacity-75">
                                                         Children are full of dreams and aspirations.  This workshop will bring them one step closer to their dreams by helping them visualize success.  As Marian Edelman rightly said, "you can't be what you can't see."  We start with a short quiz and discussion on role models, who do the children look up to and what specific traits and achievements they admire about their role models.  This will be followed by an exercise where the children imagine themselves to be on the cover of a magazine and draw out what it would look like.  They have to think about the Title of the magazine, tag lines that would be on the cover page and a short paragraph for the cover story.  What would it say about them? What would the cover story describe?</p>
                                                 </div>
 
                                             </div>
                                             <div class="modal-btns">
+                                                <a href="https://forms.gle/NqdKeFgVV7fmHN8X8" target="_blank" class="text-btn lg">
+                                                    Register Now
+                                                </a>
                                                 <div class="text-btn close-btn lg c-primary">Close</div>
                                             </div>
                                         </div>
@@ -131,7 +132,7 @@
                                 <div id="ikigai-link" class="text-btn activity-link">
                                     Learn More
                                 </div>
-                                <a href="https://www.hydlitfest.org/workshops-3/" class="text-btn activity-link" target="_blank">
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcftYUTpxhlHqQGnHc00jcnmT02jsmRy6Saf1VbVR9djezpQ/viewform" class="text-btn activity-link" target="_blank">
                                     Register Now
                                 </a>
                             </div>
@@ -160,6 +161,9 @@
 
                                             </div>
                                             <div class="modal-btns">
+                                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcftYUTpxhlHqQGnHc00jcnmT02jsmRy6Saf1VbVR9djezpQ/viewform" class="text-btn lg" target="_blank">
+                                                    Register Now
+                                                </a>
                                                 <div class="text-btn close-btn lg c-primary">Close</div>
                                             </div>
                                         </div>
@@ -180,7 +184,7 @@
             </h4>
             <h4 class="hl mb-2">1. Design your own cover page (Jan 24, 12:00pm)</h4>
             <h4 class="hl mb-2">2. Finding your Ikigai (Jan 25, 2:00pm)</h4>
-            
+
             <a href="https://www.hydlitfest.org/" target="_blank" class="std-btn primary">
                 Learn More
             </a>

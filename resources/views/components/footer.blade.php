@@ -55,7 +55,7 @@
             </div>
             <div class="bottom-nav">
                 <div class="flex">
-                    <a href="" class="text-btn footer-link">Contact Us</a>
+                    <a href="/forms/contact" class="text-btn footer-link">Contact Us</a>
                 </div>
             </div>
 

@@ -13,7 +13,7 @@
 
                                 </div>
                                 <div class="hl mb-6">
-                                    The Dot Express is about building an ecosystem of champions which consists of Schools, Corporates, Foundations, and Government. We look at schools to bring the voice of the next generation to our platform, we look at corporates and foundations to support and amplify this voice and we look at the government to listen and participate in the dialogue.
+                                    TheDotExpress is about building an ecosystem of champions which consists of Schools, Corporates, Foundations, and Government. We look at schools to bring the voice of the next generation to our platform, we look at corporates and foundations to support and amplify this voice and we look at the government to listen and participate in the dialogue.
                                 </div>
                                 <div class="hidden">
                                     <div class="std-btn secondary sm">Partner With Us</div>
