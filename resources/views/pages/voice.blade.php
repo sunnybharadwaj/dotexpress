@@ -234,10 +234,13 @@
                                                 </div>
 
                                                 <div class="post-links">
-                                                    <a href="" class="text-btn sm">
+                                                    <a id="artwork-btn" class="text-btn sm">
 
                                                         View Artwork
                                                     </a>
+                                                </div>
+                                                <div id="artwork-modal">
+                                                    @include('overlays.artwork')
                                                 </div>
                                             </div>
                                         </div>

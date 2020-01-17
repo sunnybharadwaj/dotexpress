@@ -81,6 +81,10 @@ $(document).ready(function() {
         $('#partners-modal .modal-wrapper').show();
     });
 
+    $('#artwork-btn').click(function() {
+        $('#artwork-modal .modal-wrapper').show();
+    });
+
 
 
 });
