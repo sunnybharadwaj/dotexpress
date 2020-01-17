@@ -57,7 +57,7 @@ class FormsController extends Controller
         $data = (object)$validatedData;
         Message::create($validatedData);
         $emails = ['lakshmi@shrishtiart.com', 'akkineni.sarada@gmail.com','sunny@chakradesign.co', 'reemagpt@gmail.com', 'adil@chakradesign.co'];
-        \Mail::to('sunny@chakradesign.co')
+        \Mail::to($emails)
             ->queue(new ContactMail($data));
         session()->flash("message", "Thank you for your submission. We will get back to you soon.");
         return redirect('/');
@@ -89,7 +89,7 @@ class FormsController extends Controller
 
         WorkSubmission::create($validatedData);
         $emails = ['lakshmi@shrishtiart.com', 'akkineni.sarada@gmail.com','sunny@chakradesign.co', 'reemagpt@gmail.com', 'adil@chakradesign.co'];
-        \Mail::to('sunny@chakradesign.co')
+        \Mail::to($emails)
             ->queue(new SubmissionMail($data));
         session()->flash("message", "Thank you for your submission. We will get back to you soon.");
         return redirect('/');
