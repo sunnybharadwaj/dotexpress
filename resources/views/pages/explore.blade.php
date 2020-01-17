@@ -19,16 +19,15 @@
                                     A space for children to explore new content from experts, inform their ideas, think
                                     deeper and apply it to problems they want to solve.
                                 </p>
-
                             </div>
                         </div>
                     </div>
 
                     <div id="explore-video-link" class="video w-full lg:w-5/12">
-                        <div class="overlay">
-                            <h5 class="">WATCH VIDEO</h5>
-                        </div>
                         <div class="content-wrapper">
+                            <div style="--aspect-ratio: 16/9;">
+                                <iframe src="https://www.youtube.com/embed/Eqxy-FpvMY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
                             <div class="img-wrapper">
                             </div>
                         </div>
@@ -39,7 +38,7 @@
                             <img src="/static/icons/icon_close_white.svg" alt="Close Video">
                         </div>
                         <div class="video-container">
-                            <iframe src="https://www.youtube.com/embed/nfQHF87vY0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
                         </div>
                     </div>
 

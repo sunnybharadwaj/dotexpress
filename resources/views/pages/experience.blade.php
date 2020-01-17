@@ -154,7 +154,8 @@
                                                     </div>
 
                                                     <p class="opacity-75">
-                                                        Ikigai is a Japanese concept that focuses on discovering your "reason for being".  In this workshop, we will start with a brief discussion on the concept of Ikigai and through a set of structured questions help children learn the difference between passion, skills and ultimately getting paid for what they do. This will be followed by an exercise on identifying what kind of problems she/he would want to solve when they grow-up. We will break the children into groups based on similar interests and help them delve deeper into the problem and the knowledge/expertise required to solve that particular problem.  We hope this workshop will help the participants discover their vocation. This framework can also be used whenever they are at crossroads in life.</p>.
+                                                        Ikigai is a Japanese concept that focuses on discovering your "reason for being". In this workshop, we will start with a brief discussion on the concept of Ikigai and through a set of structured questions help children learn the difference between passion, skills and ultimately getting paid for what they do. This will be followed by an exercise on identifying what kind of problems she/he would want to solve when they grow-up. We will break the children into groups based on similar interests and help them delve deeper into the problem and the knowledge/expertise required to solve that particular problem. We hope this workshop will help the participants discover their vocation. This framework can also be used whenever they are at crossroads in life.
+                                                    </p>
                                                 </div>
 
                                             </div>
@@ -179,17 +180,7 @@
             </h4>
             <h4 class="hl mb-2">1. Design your own cover page (Jan 24, 12:00pm)</h4>
             <h4 class="hl mb-2">2. Finding your Ikigai (Jan 25, 2:00pm)</h4>
-
-
-            <p class="font-bold h4 mt-4">
-
-                <ul>
-
-
-            </ul>
-
-
-            </p>
+            
             <a href="https://www.hydlitfest.org/" target="_blank" class="std-btn primary">
                 Learn More
             </a>

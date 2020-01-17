@@ -3,8 +3,12 @@
 
     <div class="page-form">
         <h4 class="mb-6">Pledge Support</h4>
-        <p class="mb-4">Help us in our endeavor to reach as many children as possible with our low-cost regional language edition of the book, "The Dot that went for a walk...". Through these stories, we would like the children to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt.</p>
-        <p class="mb-4">The number of copies pledged below can either be distributed through our foundation partners or you have the option to distribute it yourself.</p>
+        <p class="mb-4">Help us in our endeavor to reach as many children as possible with our low-cost regional
+            language edition of the book, "The Dot that went for a walk...". Through these stories, we would like the
+            children to connect with these role models, be inspired by them, think of career possibilities and fight
+            harder against self-doubt.</p>
+        <p class="mb-4">The number of copies pledged below can either be distributed through our foundation partners or
+            you have the option to distribute it yourself.</p>
         <form class="ui form" method="POST" action="/forms/pledge">
             @csrf
             @if($errors->any())
@@ -13,6 +17,11 @@
                     <div class="header">
                         There seems to be error(s) in your entry.
                     </div>
+                    {{--<ul>--}}
+                        {{--@foreach ($errors->all() as $error)--}}
+                            {{--<li>{{ $error }}</li>--}}
+                        {{--@endforeach--}}
+                    {{--</ul>--}}
                     <p>Please check and try again.
                     </p></div>
             @endif
@@ -31,7 +40,6 @@
             @endif
 
 
-
             <div class="max-w-3xl mx-auto">
                 <div class="mx-auto min-w-full">
                     <div class="field">
@@ -45,41 +53,37 @@
                         </select>
                     </div>
                     <div class="field">
-                        <label for="channel">The number of copies pledged below can either be distributed through our foundation partners or you have the option to distribute it yourself. </label>
-                        <ul>
-                            <li></li>
-                        </ul>
-                        <input type="radio" name="channel" value="Teach for Change">Teach for Change<br>
-                        <input type="radio" name="channel" value="Nanhi Kali">Nanhi Kali<br>
-                        <input type="radio" name="channel" value="Self">Self<br>
-                        <input type="radio" name="channel" value="Other">Other - Write below<br>
-                        <div class="my-2">
-                            or<br/>
-                        </div>
+                        <label for="channel">The number of copies pledged below can either be distributed through our
+                            foundation partners or you have the option to distribute it yourself. </label>
+                        <select required class="ui search dropdown"
+                                name="channel" id="channel">
+                            <option value="">Select Channel</option>
+                            <option value="Teach for Change">Teach for Change</option>
+                            <option value="Nanhi Kali">Nanhi Kali</option>
+                            <option value="Self">Self</option>
+                            <option value="Other">Other - Write below</option>
+                        </select>
 
-                        <input id="name" name="channel" type="text"
-                               placeholder="">
+
+                        <input id="name" name="channel_other" type="text"
+                               placeholder="Other Channel">
 
                     </div>
 
                     <div class="field">
                         <label for="copies">Number of copies I/We commit to sponsoring </label>
-                        <input type="radio" name="copies" value="100">100<br>
-                        <input type="radio" name="copies" value="500">500<br>
-                        <input type="radio" name="copies" value="1000">1000<br>
-                        <input type="radio" name="copies" value="5000">5000<br>
-                        <input type="radio" name="copies" value="10000">10000<br>
-                        <input type="radio" name="copies" value="Other">Other - Write below<br>
-                        <div class="my-2">
-                            or<br/>
-                        </div>
-
-                        <input id="name" name="copies" type="text"
-                               placeholder="Enter number of copies">
-
-                    </div>
-
-                    <div class="field">
+                        <select required class="ui search dropdown"
+                                name="copies" id="copies">
+                            <option value="">Select number of copies</option>
+                            <option value="100">100</option>
+                            <option value="500">500</option>
+                            <option value="1000">1000</option>
+                            <option value="5000">5000</option>
+                            <option value="10000">10000</option>
+                            <option value="Other">Other - Write below</option>
+                        </select>
+                        <input id="name" name="copies_other" type="text"
+                               placeholder="If Other, Enter number of copies">
 
                     </div>
 
@@ -114,15 +118,13 @@
                     </div>
 
 
-
                     <div class="mb-4"></div>
                     <div class="field">
                         <label for="message">Message</label>
                         <textarea required name="message" id="message" cols="30"
                                   rows="10"></textarea>
                     </div>
-                    {{--Success Message--}}
-                    {{--Thank you for your support. We will reach out to you!--}}
+
                     <button class="std-btn primary" type="submit">Submit</button>
                 </div>
             </div>

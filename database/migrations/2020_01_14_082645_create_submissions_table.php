@@ -13,11 +13,15 @@ class CreateSubmissionsTable extends Migration
      */
     public function up()
     {
-        Schema::create('submissions', function (Blueprint $table) {
+        Schema::create('work_submissions', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
             $table->string('email');
             $table->string('phone');
+            $table->string('dob');
+            $table->string('class');
+            $table->string('declaration');
+            $table->string('consent');
             $table->string('work_title');
             $table->text('work_desc');
             $table->string('filepath');

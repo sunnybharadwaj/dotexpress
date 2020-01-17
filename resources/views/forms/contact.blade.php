@@ -3,7 +3,7 @@
     <div class="page-form">
         <h4 class="mb-6">Contact Us</h4>
         <p class="mb-4">Questions? Comments? Feedback? Feel free to contact us, even if it's just to say hi!</p>
-        <form class="ui form" method="POST" action="/message">
+        <form class="ui form" method="POST" action="/forms/contact">
             @csrf
             @if($errors->any())
                 <div class="ui negative message">

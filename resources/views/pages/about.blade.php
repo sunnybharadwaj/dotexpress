@@ -29,7 +29,7 @@
                                         </div>
                                         <div class="content-wrapper">
                                             <div class="team-title h4 font-bold">Reema Gupta</div>
-                                            <p class="">Reema is a dreamer. full of ideas to change the world. Her favorite job is daydreaming and rescuing someone, anyone, be it plants, animals or dead butterflies. She loves to do a lot of things but is bound by space, time and memory constraints. Her daughters keep her grounded, hopeful and grateful. Reema founded the Women's Excellence Initiative at the Indian School of Business and was a technologist in her previous avatar.</p>
+                                            <p class="">Reema is a dreamer. Full of ideas to change the world. Her favorite job is daydreaming and rescuing someone, anyone, be it plants, animals or dead butterflies. She loves to do a lot of things but is bound by space, time and memory constraints. Her daughters keep her grounded, hopeful and grateful. Reema founded the Women's Excellence Initiative at the Indian School of Business and was a technologist in her previous avatar.</p>
                                         </div>
 
                                         <div class="links">

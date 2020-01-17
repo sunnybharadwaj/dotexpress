@@ -25,15 +25,13 @@
                         </div>
                     </div>
                     <div id="voice-video-link" class="video w-full lg:w-5/12">
-                        <div class="overlay">
-                            <h5 class="">WATCH VIDEO</h5>
-                        </div>
                         <div class="content-wrapper">
+                            <div style="--aspect-ratio: 16/9;">
+                                <iframe src="https://www.youtube.com/embed/KY8rZRspxhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
                             <div class="img-wrapper">
-                                <img src="" alt="">
                             </div>
                         </div>
-                    </div>
                 </div>
 
                 <div id="voice-video-modal" class="video-modal hidden">
@@ -41,7 +39,7 @@
                         <img src="/static/icons/icon_close_white.svg" alt="Close Video">
                     </div>
                     <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/nfQHF87vY0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/KY8rZRspxhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
