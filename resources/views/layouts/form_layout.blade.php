@@ -5,9 +5,9 @@
     <div id="form-page">
         <div class="container">
 
-            <div class="p-10"></div>
+            <div class="lg:p-10"></div>
 
-            <div class="flex">
+            <div class="flex flex-wrap">
                 <div class="w-full lg:w-4/12 form-menu">
                     <div class="menu">
                         <div class="form-menu-logo">
