@@ -1,18 +1,16 @@
 @extends('layouts/form_layout')
 @section('form')
     <div class="page-form">
-        <h4 class="mb-6">Submit Work</h4>
+        <h4 class="mb-6">Submit Your Work</h4>
         <p class="hidden">Have something interesting to share with us? An essay? Some art? Submit your work and get a
             chance to be featured on our website! We encourage original work, always.</p>
 
-        <h5 class="small">Rules of Engagement:</h5>
-        <ul>
-
-
-            <li><strong>-</strong> Creativity and Authenticity are two key criteria for evaluation</li>
-            <li><strong>-</strong> One entry per participant for each theme</li>
-            <li><strong>-</strong> Zero tolerance for plagiarism</li>
-            <li><strong>-</strong> Editor's decision will be final</li>
+        <h5 class="p">Rules of Engagement:</h5>
+        <ul class="mb-12">
+            <li class="mb-2"><strong></strong> Creativity and Authenticity are two key criteria for evaluation</li>
+            <li class="mb-2"><strong></strong> One entry per participant for each theme</li>
+            <li class="mb-2"><strong></strong> Zero tolerance for plagiarism</li>
+            <li class="mb-2"><strong></strong> Editor's decision will be final</li>
 
         </ul>
         <form class="ui form" method="POST" action="/forms/submission" enctype="multipart/form-data">
@@ -48,7 +46,6 @@
 
             <div class="max-w-3xl mx-auto">
                 <div class="mx-auto min-w-full">
-                    <h5>Work</h5>
 
 
                     <div class="field">
@@ -69,9 +66,8 @@
                     </div>
 
 
-                    <h5>About You</h5>
                     <div class="field">
-                        <label for="name">Student Name</label>
+                        <label for="name">Name</label>
                         <input required id="name" name="name" type="text"
                                placeholder="First Name, Last Name">
                     </div>

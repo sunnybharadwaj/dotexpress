@@ -37,7 +37,7 @@
                         <img src="/static/icons/icon_close_black.svg" alt="Close Announcements">
                     </div>
 
-                    <div class="h5 text-center mt-2">Announcement</div>
+                    <h5 class="p text-center mt-2">Announcement</h5>
                     <div class="max-w-lg mx-auto text-center">
                         <div class="hl mb-2 font-bold">Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
                         </div>

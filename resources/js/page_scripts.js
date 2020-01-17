@@ -1,11 +1,23 @@
 
 
 $(document).ready(function() {
+
+    $(window).scroll(function () {
+        let scroll = $(window).scrollTop();
+        let Nav = $('nav');
+        if (scroll >= 1) {
+            Nav.addClass('scrolled');
+        } else if (scroll === 0) {
+            Nav.removeClass('scrolled');
+        }
+    });
+
     $("iframe").each(function() {
 
         var src= $(this).attr('src');
         $(this).attr('src',src);
     });
+
     //Announcements Notifications
     const notification = $('.announcement-notification');
     setTimeout(

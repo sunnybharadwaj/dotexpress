@@ -12,18 +12,18 @@
                                     </h2>
 
                                 </div>
-                                <div class="hl mb-6">
+                                <p class="hl mb-6">
                                     TheDotExpress is about building an ecosystem of champions which consists of Schools, Corporates, Foundations, and Government. We look at schools to bring the voice of the next generation to our platform, we look at corporates and foundations to support and amplify this voice and we look at the government to listen and participate in the dialogue.
-                                </div>
-                                <div class="hidden">
-                                    <div class="std-btn secondary sm">Partner With Us</div>
+                                </p>
+                                <div class="">
+                                    <div id="partners-btn" class="std-btn primary">Read about our Partners</div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="logos w-full lg:w-5/12">
                         <div class="image-container">
-                            <div id="partners-btn">
+                            <div class="mt-16">
                                 <img class="mx-auto" src="/static/partners/partner_logos.svg" alt="">
                             </div>
 

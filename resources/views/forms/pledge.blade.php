@@ -47,9 +47,9 @@
                         <select required class="ui search dropdown"
                                 name="lang" id="lang">
                             <option value="">Select Language</option>
-                            <option value="Homes">English - INR 649 per Book</option>
-                            <option value="Real Estates">Telugu - INR 120 per Book</option>
-                            <option value="Retail">Hindi - INR 120 per Book</option>
+                            <option value="English - INR 649 per Book">English - INR 649 per Book</option>
+                            <option value="Telugu - INR 120 per Book">Telugu - INR 120 per Book</option>
+                            <option value="Hindi - INR 120 per Book">Hindi - INR 120 per Book</option>
                         </select>
                     </div>
                     <div class="field">

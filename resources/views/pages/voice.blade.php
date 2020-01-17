@@ -75,7 +75,7 @@
                                             </div>
                                             <div class="text">
                                                 <div class="post-header">
-                                                    <h5 class="mr-2 small inline-block">Essay</h5>
+                                                    <h5 class="p mr-2 inline-block">Essay</h5>
 
                                                 </div>
                                                 <div class="post-title">
@@ -115,7 +115,7 @@
                                                                 </div>
                                                                 <div class="post-wrapper">
                                                                     <div class="post-header">
-                                                                        <h5 class="mr-2 small inline-block">Essay</h5>
+                                                                        <h5 class="p mr-2 inline-block">Essay</h5>
                                                                     </div>
                                                                     <h3>
                                                                         K. Kamalathai
@@ -223,7 +223,7 @@
                                             </div>
                                             <div class="text">
                                                 <div class="post-header">
-                                                    <h5 class="mr-2 small inline-block">Artwork</h5>
+                                                    <h5 class="p mr-2 inline-block">Artwork</h5>
                                                 </div>
                                                 <div class="post-title">
                                                     Jhansi Lakshmi Bai
@@ -255,7 +255,7 @@
                                             </div>
                                             <div class="text">
                                                 <div class="post-header">
-                                                    <h5 class="mr-2 small inline-block">Podcast</h5>
+                                                    <h5 class="p mr-2 inline-block">Podcast</h5>
 
                                                     <div class="small font-bold inline-block"></div>
                                                 </div>
@@ -314,7 +314,7 @@
                     </p>
 
 
-                    <a href="/forms/submission" class="std-btn primary">
+                    <a href="/forms/submission" class="std-btn primary mb-0">
                         Submit Work
                     </a>
                 </div>

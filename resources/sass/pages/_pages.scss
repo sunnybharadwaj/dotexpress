@@ -84,14 +84,20 @@
 
 }
 
-#header .section-wrapper {
+//header
+header {
+  margin-top: 100px;
+}
+#header {
+  .section-wrapper {
 
-  padding: 0;
-  //background-color: $c-ll-gray;
-  .top-section {
-    .content-wrapper {
-      padding: 150px;
-      background: rgba(255, 255, 255, 0.1);
+    padding: 0;
+    //background-color: $c-ll-gray;
+    .top-section {
+      .content-wrapper {
+        padding: 150px;
+        background: rgba(255, 255, 255, 0.1);
+      }
     }
   }
 }

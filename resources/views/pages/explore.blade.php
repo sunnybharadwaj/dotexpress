@@ -70,11 +70,11 @@
                         <div class="content-wrapper">
                             <div class="lg:pl-16">
                                 <div class="max-w-lg">
-                                    <h3 class="hl font-bold mb-4">A children's book with 51 illustrated stories that celebrate
+                                    <p class="hl font-bold mb-4">A children's book with 51 illustrated stories that celebrate
                                         extraordinary women from
                                         India including artists, scientists, healers, entrepreneurs, politicians, rocket
                                         women
-                                        of India, women in sports and a commando trainer.</h3>
+                                        of India, women in sports and a commando trainer.</p>
                                 </div>
 
                                 <div class="max-w-xl">
@@ -113,7 +113,7 @@
 
             <div class="preview">
                 <div class="content-wrapper hidden md:block">
-                    <div class="loud-title h5 hl">Preview</div>
+                    <h5 class="p">Preview</h5>
                     <div id="deepika-preview-slide" class="preview-slide book-slide hidden">
                         <img class="mx-auto" src="/static/explore/preview/deepika.jpg" alt="Janaki Ammal">
                     </div>
@@ -227,7 +227,7 @@
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
                                     <div class="max-w-2xl lg:pl-10">
-                                        <div class="h3 mb-2">Regional language translations - <span class="inline-block">Low Cost Editions</span></div>
+                                        <h4 class="font-bold mb-4"><span class="inline-block">Low cost editions translated to regional languages now available!</span></h4>
                                         <p class="mb-2">
                                             Our larger vision is that every girl in every government school should have access to this book. Through these stories, we would like a girl child, to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt. Hence, we are translating the book into regional languages in low-cost print format.
                                         </p>
