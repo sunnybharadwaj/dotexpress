@@ -73,6 +73,13 @@ $(document).ready(function() {
         $(this).parents('.modal-wrapper').hide();
     });
 
+    $('#testimonials-btn').click(function() {
+        $('#testimonials-modal').show();
+    });
+
+    $('#partners-btn').click(function() {
+        $('#partners-modal').show();
+    });
 
 
 

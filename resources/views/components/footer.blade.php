@@ -42,7 +42,7 @@
                                     </a>
                                 </div>
                                 <div class="social-icon">
-                                    <a target="_blank" href="mailto:thedotexpress@gmail.com">
+                                    <a href="mailto:thedotexpress@gmail.com">
                                         <img src="/static/icons/mail.png" alt="">
                                     </a>
                                 </div>

@@ -9,6 +9,7 @@
   background: rgba(0, 0, 0, 0.11);
   z-index: 3000;
 
+
   .modal-container {
     min-width: 400px;
     max-width: 900px;
@@ -23,7 +24,19 @@
     border-top: 12px solid rgb(217, 72, 72);
     border-radius: 6px;
     min-height: 400px;
+    overflow-y: scroll;
+
   }
+
+  &.full-screen {
+    padding: 20px 30px;
+    .modal-container {
+
+      width: calc(100% - 50px);
+      height: calc(100vh - 40px);
+    }
+  }
+
 
   .content-wrapper {
     width: 100%;

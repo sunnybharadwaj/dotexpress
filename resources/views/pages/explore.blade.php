@@ -92,9 +92,17 @@
                                     </p>
                                 </div>
 
+                                <a  id="testimonials-btn" class="std-btn primary">
+                                    Testimonials
+                                </a>
                                 <a href="https://www.amazon.in/that-went-walk-Short-Stories/dp/8193926005" target="_blank" class="std-btn primary">
                                     Buy Book
                                 </a>
+
+                                <div id="testimonials-modal" class="hidden">
+                                    @include ('overlays/testimonials')
+                                </div>
+
                             </div>
 
 
@@ -222,7 +230,6 @@
                                         <div class="h3 mb-2">Regional language translations - <span class="inline-block">Low Cost Editions</span></div>
                                         <p class="mb-2">
                                             Our larger vision is that every girl in every government school should have access to this book. Through these stories, we would like a girl child, to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt. Hence, we are translating the book into regional languages in low-cost print format.
-
                                         </p>
                                         <p>We launched the Telugu edition on Nov 27, 2019 and will be releasing the Hindi edition soon. We're working with foundations like Teach for Change and Nanhi Kali to distribute our books and reach remote rural areas.</p>
                                     </div>
@@ -231,7 +238,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

@@ -20,13 +20,19 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                     <div class="logos w-full lg:w-5/12">
                         <div class="image-container">
-                            <img class="mx-auto" src="/static/partners/partner_logos.svg" alt="">
+                            <div id="partners-btn">
+                                <img class="mx-auto" src="/static/partners/partner_logos.svg" alt="">
+                            </div>
+
                         </div>
                     </div>
+                </div>
+
+                <div id="partners-modal" class="hidden">
+                    @include ('overlays/partners')
                 </div>
             </div>
 
