@@ -99,7 +99,7 @@
                                     Buy Book
                                 </a>
 
-                                <div id="testimonials-modal" class="hidden">
+                                <div id="testimonials-modal" class="">
                                     @include ('overlays/testimonials')
                                 </div>
 

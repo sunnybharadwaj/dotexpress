@@ -31,7 +31,7 @@
                     </div>
                 </div>
 
-                <div id="partners-modal" class="hidden">
+                <div id="partners-modal" class="">
                     @include ('overlays/partners')
                 </div>
             </div>

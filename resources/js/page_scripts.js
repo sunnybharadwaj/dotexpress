@@ -74,11 +74,11 @@ $(document).ready(function() {
     });
 
     $('#testimonials-btn').click(function() {
-        $('#testimonials-modal').show();
+        $('#testimonials-modal .modal-wrapper').show();
     });
 
     $('#partners-btn').click(function() {
-        $('#partners-modal').show();
+        $('#partners-modal .modal-wrapper').show();
     });
 
 

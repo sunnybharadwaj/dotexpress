@@ -1,4 +1,4 @@
-<div class="modal-wrapper full-screen">
+<div class="modal-wrapper full-screen hidden">
     <div class="modal-container ">
         <div class="container">
             <div class="relative">
