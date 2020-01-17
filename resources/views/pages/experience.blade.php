@@ -178,16 +178,19 @@
     </div>
 
     <div class="text-center py-10 lg:py-16 bg-a3-l">
-        <div class="max-w-3xl mx-auto">
-            <h4 class="font-bold mb-4">
-                Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
-            </h4>
-            <h4 class="hl mb-2">1. Design your own cover page (Jan 24, 12:00pm)</h4>
-            <h4 class="hl mb-2">2. Finding your Ikigai (Jan 25, 2:00pm)</h4>
+        <div class="container">
+            <div class="max-w-3xl mx-auto">
+                <h4 class="font-bold mb-4">
+                    Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
+                </h4>
+                <h4 class="hl mb-2">1. Design your own cover page (Jan 24, 12:00pm)</h4>
+                <h4 class="hl mb-2">2. Finding your Ikigai (Jan 25, 2:00pm)</h4>
 
-            <a href="https://www.hydlitfest.org/" target="_blank" class="std-btn primary">
-                Learn More
-            </a>
+                <a href="https://www.hydlitfest.org/" target="_blank" class="std-btn primary">
+                    Learn More
+                </a>
+            </div>
         </div>
+
     </div>
 </section>

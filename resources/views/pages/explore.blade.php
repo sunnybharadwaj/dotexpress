@@ -242,14 +242,17 @@
         </div>
     </div>
     <div class="text-center py-10 lg:py-16 bg-a1-l">
-        <div class="max-w-3xl mx-auto">
-            <p class="font-bold h4 mt-4">
-                Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
-                language editions
-            </p>
-            <a href="/forms/pledge" class="std-btn primary">
-                Pledge Support
-            </a>
+        <div class="container">
+            <div class="max-w-3xl mx-auto">
+                <p class="font-bold h4 mt-4">
+                    Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
+                    language editions
+                </p>
+                <a href="/forms/pledge" class="std-btn primary">
+                    Pledge Support
+                </a>
+            </div>
         </div>
+
     </div>
 </section>
