@@ -7,7 +7,7 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 
-class PledgeEmail extends Mailable
+class SubmissionMail extends Mailable
 {
     use Queueable, SerializesModels;
     public $message;
@@ -28,6 +28,6 @@ class PledgeEmail extends Mailable
      */
     public function build()
     {
-        return $this->subject('New Pledge to thedotexpress.co')->markdown('mails.pledge_email');
+        return $this->subject('New Submission to thedotexpress.co')->markdown('mails.submission_email');
     }
 }
