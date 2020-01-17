@@ -15,11 +15,13 @@ class CreatePledgesTable extends Migration
     {
         Schema::create('pledge_posts', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('copies');
+            $table->string('copies')->nullable();
+            $table->string('copies_other')->nullable();
             $table->string('name');
             $table->string('lang');
             $table->string('org_name');
-            $table->string('channel');
+            $table->string('channel')->nullable();
+            $table->string('channel_other')->nullable();
             $table->string('email');
             $table->string('phone');
             $table->text('message');

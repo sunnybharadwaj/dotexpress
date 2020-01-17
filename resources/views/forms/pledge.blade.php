@@ -45,16 +45,20 @@
                         </select>
                     </div>
                     <div class="field">
-                        <label for="copies">The number of copies pledged below can either be distributed through our foundation partners or you have the option to distribute it yourself. </label>
+                        <label for="channel">The number of copies pledged below can either be distributed through our foundation partners or you have the option to distribute it yourself. </label>
+                        <ul>
+                            <li></li>
+                        </ul>
                         <input type="radio" name="channel" value="Teach for Change">Teach for Change<br>
                         <input type="radio" name="channel" value="Nanhi Kali">Nanhi Kali<br>
                         <input type="radio" name="channel" value="Self">Self<br>
+                        <input type="radio" name="channel" value="Other">Other - Write below<br>
                         <div class="my-2">
                             or<br/>
                         </div>
 
-                        <input id="name" name="copies" type="text"
-                               placeholder="Other">
+                        <input id="name" name="channel" type="text"
+                               placeholder="">
 
                     </div>
 
@@ -65,6 +69,7 @@
                         <input type="radio" name="copies" value="1000">1000<br>
                         <input type="radio" name="copies" value="5000">5000<br>
                         <input type="radio" name="copies" value="10000">10000<br>
+                        <input type="radio" name="copies" value="Other">Other - Write below<br>
                         <div class="my-2">
                             or<br/>
                         </div>

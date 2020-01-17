@@ -88,9 +88,15 @@ footer {
   background: $c-l-gray;
 
 
-  .footer-nav {
-    .footer-link {
-      color: $c-black;
+  .footer-link {
+    color: $c-black;
+  }
+
+  .social-list {
+    .social-icon img {
+      width: 40px;
+      height: 40px;
+      margin-right: 20px;
     }
   }
 }

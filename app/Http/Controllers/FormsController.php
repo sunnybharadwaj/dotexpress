@@ -12,8 +12,20 @@ class FormsController extends Controller
         return view('forms/pledge');
     }
 
-    public function contact() {
-        return view('forms/contact');
+    public function contact(Request $request) {
+        $validatedData = $request->validate([
+            "name" => "required",
+            "email" => "required",
+            "phone" => "required",
+            "message" => "required"
+        ]);
+        $data = (object)$validatedData;
+        PledgePost::create($validatedData);
+        $emails = ['lakshmi@shrishtiart.com', 'akkineni.sarada@gmail.com','sunny@chakradesign.co', 'reemagpt@gmail.com', 'adil@chakradesign.co'];
+        \Mail::to('sunny@chakradesign.co')
+            ->queue(new PledgeEmail($data));
+        session()->flash("message", "Thank you for your submission. We will get back to you soon.");
+        return redirect()->back();
     }
 
     public function submission() {
@@ -21,6 +33,7 @@ class FormsController extends Controller
     }
 
     public function pledge_post(Request $request) {
+        dd($request->all());
         $validatedData = $request->validate([
             "copies" => ["required"],
             "name" => "required",

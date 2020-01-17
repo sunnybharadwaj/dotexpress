@@ -23,13 +23,45 @@
                     <div class="max-w-xs">
                         @include ('snippets/logo')
                     </div>
-                    <div class="flex justify-center">
+                    <div class="social-list pt-4 pb-6">
+                        <div class="max-w-xs">
+                            <div class="flex">
+                                <div class="social-icon">
+                                    <a target="_blank" href="https://www.facebook.com/thedotexpress/">
+                                        <img src="/static/icons/facebook.png" alt="">
+                                    </a>
+                                </div>
+                                <div class="social-icon">
+                                    <a target="_blank" href="https://www.instagram.com/thedotexpress/">
+                                        <img src="/static/icons/instagram.png" alt="">
+                                    </a>
+                                </div>
+                                <div class="social-icon">
+                                    <a target="_blank" href="https://twitter.com/thedotexpress">
+                                        <img src="/static/icons/twitter.png" alt="">
+                                    </a>
+                                </div>
+                                <div class="social-icon">
+                                    <a target="_blank" href="mailto:thedotexpress@gmail.com">
+                                        <img src="/static/icons/mail.png" alt="">
+                                    </a>
+                                </div>
+                            </div>
 
+                        </div>
                     </div>
 
                 </div>
             </div>
-            <div class="legal">Copyright 2019</div>
+            <div class="bottom-nav">
+                <div class="flex">
+                    <a href="" class="text-btn footer-link">Contact Us</a>
+                </div>
+            </div>
+
+            <div class="legal opacity-25">&copy; Copyright 2019</div>
+
+
         </div>
     </div>
 </footer>
