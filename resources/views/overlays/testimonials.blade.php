@@ -84,16 +84,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="testimonial">
-                                <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"We at Teach for Change will make sure that not just every girl child, but also every boy child gets to read this book and gets inspired."</div>
-                                    </div>
-                                    <div class="sign mt-4">
-                                        <p class="font-bold">Lakshmi Manchu <br/> Celebrity, Ambassador Teach for Change</p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
 
