@@ -2,10 +2,10 @@
 @section('form')
     <div class="page-form">
         <h4 class="mb-6">Submit Work</h4>
-        <p class="">Have something interesting to share with us? An essay? Some art? Submit your work and get a
+        <p class="hidden">Have something interesting to share with us? An essay? Some art? Submit your work and get a
             chance to be featured on our website! We encourage original work, always.</p>
 
-        <h5 class="small">Instructions</h5>
+        <h5 class="small">Rules of Engagement:</h5>
         <ul>
 
 
@@ -71,7 +71,7 @@
 
                     <h5>About You</h5>
                     <div class="field">
-                        <label for="name">Name</label>
+                        <label for="name">Student Name</label>
                         <input required id="name" name="name" type="text"
                                placeholder="First Name, Last Name">
                     </div>
@@ -87,6 +87,13 @@
                         <input required id="class" name="class" type="text"
                                placeholder="Example: Class 4">
                     </div>
+
+                    <div class="field">
+                        <label for="school">School Name</label>
+                        <input required id="school" name="school" type="text"
+                               placeholder="">
+                    </div>
+
 
                     <div class="field">
                         <label for="phone">Parent's Phone Number</label>

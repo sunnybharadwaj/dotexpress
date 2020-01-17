@@ -69,6 +69,7 @@ class FormsController extends Controller
             "phone" => "required",
             "dob" => "required",
             "class" => "required",
+            "school" => "required",
             "declaration" => "required",
             "consent" => "required",
             "work_title" => "required",

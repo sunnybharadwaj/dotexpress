@@ -21,7 +21,7 @@
             <div class="logo mb-2">
                 <div class="wrapper ">
                     <div class="max-w-xs">
-                        @include ('snippets/logo')
+                        @include ('snippets/logo_white')
                     </div>
                     <div class="social-list pt-4 pb-6">
                         <div class="max-w-xs">
@@ -55,7 +55,9 @@
             </div>
             <div class="bottom-nav">
                 <div class="flex">
-                    <a href="/forms/contact" class="text-btn footer-link">Contact Us</a>
+                    <a href="/forms/pledge" class="text-btn lg footer-link">Pledge Support</a>
+                    <a href="/forms/contact" class="text-btn lg footer-link">Contact Us</a>
+
                 </div>
             </div>
 

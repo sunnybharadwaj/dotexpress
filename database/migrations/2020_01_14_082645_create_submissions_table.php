@@ -19,6 +19,7 @@ class CreateSubmissionsTable extends Migration
             $table->string('email');
             $table->string('phone');
             $table->string('dob');
+            $table->string('school');
             $table->string('class');
             $table->string('declaration');
             $table->string('consent');

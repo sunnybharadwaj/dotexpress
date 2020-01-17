@@ -17,8 +17,6 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
 
         <div class="site-description">
@@ -41,14 +39,13 @@
 
                     <div class="h5 text-center mt-2">Announcement</div>
                     <div class="max-w-lg mx-auto text-center">
-                        <div class="hl mb-2">Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
+                        <div class="hl mb-2 font-bold">Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
                         </div>
-                        <div class="p font-bold mb-2">1. Design your own cover page (Jan 24, 12:00pm)</div>
-                        <div class="p font-bold">2. Finding your Ikigai (Jan 25, 2:00pm)</div>
+                        <div class="p mb-2">1. Design your own cover page (Jan 24, 12:00pm)</div>
+                        <div class="p">2. Finding your Ikigai (Jan 25, 2:00pm)</div>
 
                         <div class="links">
                             <a href="https://www.hydlitfest.org/" target="_blank" class="text-btn">Learn More</a>
-                            {{--<div class="text-btn">View All Announcements</div>--}}
                         </div>
                     </div>
                 </div>

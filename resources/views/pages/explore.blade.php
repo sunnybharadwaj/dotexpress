@@ -106,7 +106,7 @@
             <div class="preview">
                 <div class="content-wrapper hidden md:block">
                     <div class="loud-title h5 hl">Preview</div>
-                    <div id="deepika-preview-slide" class="preview-slide book-slide ">
+                    <div id="deepika-preview-slide" class="preview-slide book-slide hidden">
                         <img class="mx-auto" src="/static/explore/preview/deepika.jpg" alt="Janaki Ammal">
                     </div>
                     <div id="janaki-preview-slide" class="preview-slide book-slide hidden">
@@ -116,27 +116,30 @@
                         <img class="mx-auto" src="/static/explore/preview/indra_nooyi.jpg" alt="Janaki Ammal">
                     </div>
 
-                    <div id="kalpana-preview-slide" class="preview-slide book-slide hidden">
+                    <div id="kalpana-preview-slide" class="preview-slide book-slide ">
                         <img class="mx-auto" src="/static/explore/preview/kalpana.jpg" alt="Janaki Ammal">
                     </div>
                     <div class="book-menu">
                         <div class="flex flex-wrap max-w-2xl mx-auto">
                             <div class="flex-wrapper w-full md:w-1/4">
-                                <div id="deepika-preview-link" class="text-btn preview-link book-link active">
+                                <div id="kalpana-preview-link" class="text-btn preview-link book-link active">
+                                    Kalpana Chawla
+                                </div>
+                            </div>
+
+                            <div class="flex-wrapper w-full md:w-1/4">
+                                <div id="deepika-preview-link" class="text-btn preview-link book-link ">
                                     Deepika Padukone
                                 </div>
                             </div>
+
                             <div class="flex-wrapper w-full md:w-1/4">
                                 <div id="indira-preview-link" class="text-btn preview-link book-link">
                                     Indra Nooyi
                                 </div>
                             </div>
 
-                            <div class="flex-wrapper w-full md:w-1/4">
-                                <div id="kalpana-preview-link" class="text-btn preview-link book-link">
-                                    Kalpana Chawla
-                                </div>
-                            </div>
+
                             <div class="flex-wrapper w-full md:w-1/4">
                                 <div id="janaki-preview-link" class="text-btn preview-link book-link">
                                     Janaki Ammal
@@ -219,13 +222,13 @@
                             </div>
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
-                                    <div class="max-w-2xl lg:pl-16">
-                                        <div class="h3">Regional language translations - Low Cost Editions</div>
-                                        <p>
-                                            Our larger vision is that every girl in every government school should have access to this book. Through these stories, we would like a girl child, to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt. Hence, we are translating the book into regional languages in low-cost print format. We launched the Telugu edition on Nov 27, 2019 and will be releasing the Hindi edition soon. We are working with foundations like Teach for Change and Nanhi Kali to distribute our books and reach remote rural areas.
+                                    <div class="max-w-2xl lg:pl-10">
+                                        <div class="h3 mb-2">Regional language translations - <span class="inline-block">Low Cost Editions</span></div>
+                                        <p class="mb-2">
+                                            Our larger vision is that every girl in every government school should have access to this book. Through these stories, we would like a girl child, to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt. Hence, we are translating the book into regional languages in low-cost print format.
 
                                         </p>
-                                        <p></p>
+                                        <p>We launched the Telugu edition on Nov 27, 2019 and will be releasing the Hindi edition soon. We're working with foundations like Teach for Change and Nanhi Kali to distribute our books and reach remote rural areas.</p>
                                     </div>
                                 </div>
                             </div>
