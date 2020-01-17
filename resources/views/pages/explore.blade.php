@@ -126,20 +126,16 @@
                                     Kalpana Chawla
                                 </div>
                             </div>
-
-                            <div class="flex-wrapper w-full md:w-1/4">
-                                <div id="deepika-preview-link" class="text-btn preview-link book-link ">
-                                    Deepika Padukone
-                                </div>
-                            </div>
-
                             <div class="flex-wrapper w-full md:w-1/4">
                                 <div id="indira-preview-link" class="text-btn preview-link book-link">
                                     Indra Nooyi
                                 </div>
                             </div>
-
-
+                            <div class="flex-wrapper w-full md:w-1/4">
+                                <div id="deepika-preview-link" class="text-btn preview-link book-link ">
+                                    Deepika Padukone
+                                </div>
+                            </div>
                             <div class="flex-wrapper w-full md:w-1/4">
                                 <div id="janaki-preview-link" class="text-btn preview-link book-link">
                                     Janaki Ammal
