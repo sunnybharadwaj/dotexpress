@@ -48,7 +48,7 @@
                                             </div>
                                         </div>
                                         <div class="sign">
-                                            <p class="font-bold">Lakshmi Manchu <br/> Celebrity, Ambassador Teach for Change</p>
+                                            <p class="font-bold">Director<br/>Sri Chaitanya Educational Institutions</p>
                                         </div>
                                     </div>
                                 </div>
