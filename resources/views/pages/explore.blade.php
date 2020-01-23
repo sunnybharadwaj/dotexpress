@@ -28,7 +28,8 @@
                             <div style="--aspect-ratio: 16/9;">
                                 <iframe src="https://www.youtube.com/embed/Eqxy-FpvMY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
-                            <div class="img-wrapper">
+                            <div class="video-btn post-link text-btn sm text-right w-full pr-2">
+                                <a href="https://www.youtube.com/channel/UC_8UWRqXxVvLFiQ175IzgKw" target="_blank">View more on our Youtube Channel</a>
                             </div>
                         </div>
                     </div>
@@ -95,6 +96,11 @@
                                 <a  id="testimonials-btn" class="std-btn primary">
                                     Testimonials
                                 </a>
+
+                                <a  id="media-btn" class="std-btn primary">
+                                    Media
+                                </a>
+
                                 <a href="https://www.amazon.in/that-went-walk-Short-Stories/dp/8193926005" target="_blank" class="std-btn primary">
                                     Buy Book
                                 </a>
@@ -103,9 +109,10 @@
                                     @include ('overlays/testimonials')
                                 </div>
 
+                                <div id="media-modal" class="">
+                                    @include ('overlays/media')
+                                </div>
                             </div>
-
-
                         </div>
                     </div>
                 </div>

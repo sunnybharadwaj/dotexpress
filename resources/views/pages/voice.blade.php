@@ -27,11 +27,12 @@
                     <div id="voice-video-link" class="video w-full lg:w-5/12">
                         <div class="content-wrapper">
                             <div style="--aspect-ratio: 16/9;">
-                                <iframe src="https://www.youtube.com/embed/KY8rZRspxhs" frameborder="0"
+                                <iframe src="https://www.youtube.com/embed/nh8NeF2J-zU" frameborder="0"
                                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen></iframe>
                             </div>
-                            <div class="img-wrapper">
+                            <div class="video-btn post-link text-btn sm text-right w-full pr-2">
+                                <a href="https://www.youtube.com/channel/UC_8UWRqXxVvLFiQ175IzgKw" target="_blank">The Dot Interviews</a>
                             </div>
                         </div>
                     </div>

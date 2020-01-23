@@ -11,7 +11,7 @@
 |
 */
 
-
+session()->keep('announcement', 'Here you go!');
 
 Route::get('/', 'PagesController@landing');
 Route::get('/voice', 'PagesController@landing');

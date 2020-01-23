@@ -1,9 +1,5 @@
 .header-bg {
   background: url('/static/backgrounds/headerbg.png') center center/cover no-repeat scroll padding-box border-box #ccc;
-  @media (min-width: 960px) {
-    background: url('/static/backgrounds/headerbg.png') center center/cover no-repeat fixed padding-box border-box #ccc;
-  }
-
 
 }
 

@@ -15,6 +15,7 @@
     @include('components/announcements')
     @include('components/footer')
 
+
     @if (session()->has('message'))
         <div class="notification ">
             <div class="content-wrapper mx-auto">

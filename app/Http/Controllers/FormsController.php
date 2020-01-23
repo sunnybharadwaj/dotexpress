@@ -12,15 +12,18 @@ use App\WorkSubmission;
 
 class FormsController extends Controller
 {
-    public function pledge() {
+    public function pledge(Request $request) {
+        $request->session()->forget('announcement');
         return view('forms/pledge');
     }
 
     public function contact(Request $request) {
+        $request->session()->forget('announcement');
         return view('forms/contact');
     }
 
-    public function submission() {
+    public function submission(Request $request) {
+        $request->session()->forget('announcement');
         return view('forms/submission');
     }
 

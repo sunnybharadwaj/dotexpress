@@ -6,7 +6,9 @@ use Illuminate\Http\Request;
 
 class PagesController extends Controller
 {
-    public function landing() {
+
+
+    public function landing(Request $request) {
         return view('main');
     }
 }

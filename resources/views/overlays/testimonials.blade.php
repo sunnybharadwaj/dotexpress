@@ -8,79 +8,98 @@
                 </div>
             </div>
             <div class="post-wrapper">
-                <div class="text-center">
-                    <h5 class="mt-2">Testimonials</h5>
+                <div class="text-left">
+                    <h5 class="mt-2 text-center">Testimonials</h5>
 
-                    <div class="max-w-lg mx-auto">
+
+                    <div class="max-w-2xl mx-auto">
+
                         <div class="testimonials">
                             <div class="testimonial">
                                 <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"We at Teach for Change will make sure that not just every girl child, but also every boy child gets to read this book and gets inspired."</div>
-                                    </div>
-                                    <div class="sign">
-                                        <p class="font-bold">Lakshmi Manchu <br/> Celebrity, Ambassador Teach for Change</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"As an entrepreneur, I know this is a best-selling product because we have 51 extraordinarily accomplished women backing it."</div>
-                                    </div>
-                                    <div class="sign mt-4">
-                                        <p class="font-bold">Ram Vasudevan
-                                            <br/> CEO Quislex</p>
+                                    <div class="testimonial">
+                                        <div class="flex flex-wrap">
+                                            <div class="w-1/4">
+                                                <img src="/static/testimonials/shobu-yarlagadda.png" alt="">
+                                            </div>
+                                            <div class="w-full lg:w-3/4">
+                                                <div class="quote py-8 ml-4">
+                                                    <div class="hl pl-4">"It’s a lovely book, very inspirational. I’ve read many stories in the book, of the women - their growth and their success. It’s a must read not only for the children but for all the adults as well"</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="sign">
+                                            <p class="font-bold">Shobu Yarlagadda <br/> Film Producer, CEO, Arka Media Works</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial">
                                 <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"This book comes from the idea to give today’s students something more to dream of than grades and scores."</div>
-                                    </div>
-                                    <div class="sign mt-4">
-                                        <p class="font-bold">Eenadu, Hyderabad</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"With inspiring role models, “The Dot…”, celebrates women achievers and helps young adults to dream big and think of new possibilities."</div>
-                                    </div>
-                                    <div class="sign mt-4">
-                                        <p class="font-bold">Metro Plus, The Hindu</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"This book is unlike other children’s books and talks about real stories and real women, who have empowered the world with their actions. It is a new way of storytelling which was a welcome change."</div>
-                                    </div>
-                                    <div class="sign mt-4">
-                                        <p class="font-bold">MissMalini.com</p>
+                                    <div class="testimonial">
+                                        <div class="flex flex-wrap">
+                                            <div class="w-full lg:w-1/4">
+                                                <img src="/static/testimonials/seema-boppana.png" alt="">
+                                            </div>
+                                            <div class="w-full lg:w-3/4">
+                                                <div class="quote py-8 ml-4">
+                                                    <div class="hl pl-4">"It’s a great book. Young kids, especially girls have to feel like they can achieve anything.. and what better way than to show them these examples of women who have actually done it before, breaking all the stereotypes."</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="sign">
+                                            <p class="font-bold">Lakshmi Manchu <br/> Celebrity, Ambassador Teach for Change</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial">
                                 <div class="wrapper">
-                                    <div class="quote">
-                                        <div class="hl">"Another heartening aspect of The Dot… is the fact that it celebrates not just well-known figures.  There are chapters for instance on Lakshmikutty Amma from Kerala who is a healer specializing in herbal medicine; on Nannamal, the Yoga Granny from Coimbatore."</div>
-                                    </div>
-                                    <div class="sign mt-4">
-                                        <p class="font-bold">The Hindu</p>
+                                    <div class="testimonial">
+                                        <div class="flex flex-wrap">
+                                            <div class="w-full lg:w-1/4">
+                                                <img src="/static/testimonials/lakshmi-manchu.png" alt="">
+                                            </div>
+                                            <div class="w-full lg:w-3/4">
+                                                <div class="quote py-8 ml-4">
+                                                    <div class="hl pl-4">"We at Teach for Change will make sure that not just every girl child, but also every boy child gets to read this book and gets inspired."</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="sign">
+                                            <p class="font-bold">Lakshmi Manchu <br/> Celebrity, Ambassador Teach for Change</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial">
                                 <div class="wrapper">
+                                    <div class="testimonial">
+                                        <div class="flex flex-wrap">
+                                            <div class="w-full lg:w-1/4">
+                                                <img src="/static/testimonials/ram-vasudevan.png" alt="">
+                                            </div>
+                                            <div class="w-full lg:w-3/4">
+                                                <div class="quote py-8 ml-4">
+                                                    <div class="hl pl-4">"As an entrepreneur, I know this is a best-selling product because we have 51 extraordinarily accomplished women backing it."</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="sign">
+                                            <p class="font-bold">Ram Vasudevan <br/> CEO, Quislex</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="testimonial">
+                                <div class="wrapper">
                                     <div class="quote">
-                                        <div class="hl">"“The Dot…” contains many examples of women who have never felt the need to conform and who waged quiet battles."</div>
+                                        <div class="hl"></div>
                                     </div>
                                     <div class="sign mt-4">
-                                        <p class="font-bold">NPR</p>
+                                        <p class="font-bold">
+                                            <br/> </p>
                                     </div>
                                 </div>
                             </div>
