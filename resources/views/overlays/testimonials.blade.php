@@ -19,7 +19,7 @@
                                 <div class="wrapper">
                                     <div class="testimonial">
                                         <div class="flex flex-wrap">
-                                            <div class="w-1/4">
+                                            <div class="w-full lg:w-1/4">
                                                 <img src="/static/testimonials/shobu-yarlagadda.png" alt="">
                                             </div>
                                             <div class="w-full lg:w-3/4">

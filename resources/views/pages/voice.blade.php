@@ -36,17 +36,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <div id="voice-video-modal" class="video-modal hidden">
-                        <div class="close-btn">
-                            <img src="/static/icons/icon_close_white.svg" alt="Close Video">
-                        </div>
-                        <div class="video-container">
-                            <iframe src="https://www.youtube.com/embed/KY8rZRspxhs" frameborder="0"
-                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                        </div>
-                    </div>
                 </div>
             </div>
 

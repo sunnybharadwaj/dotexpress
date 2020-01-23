@@ -28,20 +28,13 @@
                             <div style="--aspect-ratio: 16/9;">
                                 <iframe src="https://www.youtube.com/embed/Eqxy-FpvMY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
-                            <div class="video-btn post-link text-btn sm text-right w-full pr-2">
+                            <div class="post-link text-btn sm text-right w-full pr-2">
                                 <a href="https://www.youtube.com/channel/UC_8UWRqXxVvLFiQ175IzgKw" target="_blank">View more on our Youtube Channel</a>
                             </div>
                         </div>
                     </div>
 
-                    <div id="explore-video-modal" class="video-modal  hidden">
-                        <div class="close-btn">
-                            <img src="/static/icons/icon_close_white.svg" alt="Close Video">
-                        </div>
-                        <div class="video-container">
 
-                        </div>
-                    </div>
 
 
                 </div>
