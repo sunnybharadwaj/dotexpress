@@ -3,9 +3,18 @@
   .mb-hidden {
     display: none;
   }
+header {
+  margin-top: 70px;
+  #header .header-text {
+    h4 {
+      font-size: 20px;
+    }
+  }
+}
+
 
   .header-bg .content-wrapper {
-    padding: 100px 70px !important;
+    padding: 60px 20px !important;
   }
 
   .site-description {
