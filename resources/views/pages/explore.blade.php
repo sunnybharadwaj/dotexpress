@@ -220,18 +220,19 @@
                                 <div class="content-wrapper">
                                     <div class="blob"></div>
                                     <div class="img-wrapper">
-                                        <img src="/static/explore/lowcost_book.png" alt="">
+                                        <img src="/static/announcements/womenday_telugu.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="text w-full lg:w-7/12">
                                 <div class="content-wrapper">
                                     <div class="max-w-2xl lg:pl-10">
-                                        <h4 class="font-bold mb-4"><span class="inline-block">Low cost editions translated to regional languages now available!</span></h4>
+                                        <h4 class="font-bold mb-4"><span class="inline-block">Change the narrative and help instill confidence in the next generation of students</span></h4>
+                                        <p class="mb-2">Remind girls of their inner strength, courage and ability to dream through the stories of 51 extraordinary Indian women, written in Telugu! </p>
                                         <p class="mb-2">
                                             Our larger vision is that every girl in every government school should have access to this book. Through these stories, we would like a girl child, to connect with these role models, be inspired by them, think of career possibilities and fight harder against self-doubt. Hence, we are translating the book into regional languages in low-cost print format.
                                         </p>
-                                        <p>We launched the Telugu edition on Nov 27, 2019 and will be releasing the Hindi edition soon. We're working with foundations like Teach for Change and Nanhi Kali to distribute our books and reach remote rural areas.</p>
+
                                     </div>
                                 </div>
                             </div>
@@ -245,11 +246,10 @@
         <div class="container">
             <div class="max-w-3xl mx-auto">
                 <p class="font-bold h4 mt-4">
-                    Donate today to help us print and distribute these <span class="inline-block">low-cost</span> regional
-                    language editions
+                    Donate copies of The Dot That Went For A Walk, specially translated into Telugu to reach girls and students in their native tongue across all rural areas!
                 </p>
-                <a href="/forms/pledge" class="std-btn primary">
-                    Pledge Support
+                <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeiCaxXHtuScJodZ0vYAEeSxCjgFx79SxB2fV6ydsbRrW4c2A/viewform?usp=sf_link" class="std-btn primary">
+                    Donate Today
                 </a>
             </div>
         </div>

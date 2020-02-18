@@ -18,11 +18,7 @@
             </div>
         </div>
 
-        <div class="site-description">
-            <div class="container">
 
-            </div>
-        </div>
         @if(session()->has('announcement'))
             <div class="announcement-notification notification hidden">
                 <div class="content-wrapper mx-auto">

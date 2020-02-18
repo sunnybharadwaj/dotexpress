@@ -44,7 +44,7 @@
 
         <div class="activities">
             <div class="container">
-                <h2 class="h5">Activities</h2>
+                <h2 class="h5">Past Activities</h2>
                 <div class="flex flex-wrap">
                     <div class="activity w-full md:w-1/2">
                         <div class="workshop">
@@ -181,13 +181,12 @@
         <div class="container">
             <div class="max-w-3xl mx-auto">
                 <h4 class="font-bold mb-4">
-                    Join us at the Hyderabad Literary Festival 2020 for two very exciting workshops for children:
+                    This Women's Day, Give the gift of endless possibilities!
                 </h4>
-                <h4 class="hl mb-2">1. Design your own cover page (Jan 24, 12:00pm)</h4>
-                <h4 class="hl mb-2">2. Finding your Ikigai (Jan 25, 2:00pm)</h4>
+                <h4 class="hl mb-2">Remind women in your company of their inner strength, courage and ability to achieve their dreams through the stories of 51 extraordinary Indian women. </h4>
 
-                <a href="https://www.hydlitfest.org/" target="_blank" class="std-btn primary">
-                    Learn More
+                <a href="https://www.amazon.in/that-went-walk-Short-Stories/dp/8193926005" target="_blank" class="std-btn primary">
+                    Purchase Copies
                 </a>
             </div>
         </div>
